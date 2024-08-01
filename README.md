@@ -26,7 +26,6 @@ By implementing Power BI, Guyus Real Estate aims to streamline its reporting pro
 - Step 9 : Four card visuals were added to the canvas, representing No of Transactions, Average Sales, Total Sales Amount & Max of Sales Price.
            Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
            
-           Although, by default, while calculating average, blank values are ignored.
 - Step 10 : A map chart was added to the report design area representing total sales amount by state a line chart representing sum of sales price by month name, a doughnut chart representing total sales amount by proprty type, a clustered bar chart representing no of transaction by city and property type and a decomposition tree breaking down tnh property type, state and agent name.
 - Step 11 : card Visual was used to represent different transactions 
  
