@@ -1,0 +1,842 @@
+TransactionID,Date,PropertyID,PropertyName,PropertyType,LocationID,Address,City,State,ZipCode,SquareFeet,YearBuilt,SalePrice,AgentID,AgentName
+6926,2023-06-01,46,Property_451,Land,24,4235 8th Ave,Chicago,IL,77757,742,1980,248440,61,James Davis
+1190,2023-06-01,128,Property_285,Residential,35,7616 Main St,Philadelphia,PA,19216,5758,1983,128609,30,Robert Brown
+7716,2023-06-01,137,Property_446,Land,4,448 Elm St,San Diego,CA,15697,4043,2018,666338,99,James Garcia
+2219,2023-06-01,403,Property_14,Commercial,102,4987 Main St,Houston,TX,37617,1422,2008,863287,7,Michael Jones
+2211,2023-06-01,349,Property_461,Commercial,141,2933 River Rd,Chicago,IL,89973,9655,1998,962719,1,Mary Williams
+277,2023-06-01,156,Property_491,Residential,192,9467 Maple St,Dallas,TX,90777,1055,2022,529106,37,Mary Garcia
+1916,2023-06-01,450,Property_140,Commercial,95,7517 Main St,San Diego,CA,61195,9876,1925,664463,29,Robert Brown
+8913,2023-06-01,369,Property_225,Residential,110,4110 Maple St,Los Angeles,CA,12064,1647,1963,724094,100,Michael Williams
+8426,2023-06-01,179,Property_330,Land,100,6043 Oak St,San Antonio,TX,79100,2316,2010,123190,57,Robert Jones
+9990,2023-06-01,149,Property_92,Residential,127,2465 Sunset Blvd,San Antonio,TX,77496,3905,2013,796767,61,Mary Davis
+505,2023-06-01,449,Property_42,Residential,168,7719 River Rd,San Diego,CA,89831,7869,1966,361891,77,Patricia Miller
+190,2023-06-01,72,Property_312,Residential,41,9285 River Rd,Los Angeles,CA,44937,4016,2020,475083,21,Linda Jones
+4587,2023-06-01,110,Property_484,Commercial,115,1042 Main St,San Diego,CA,54588,6036,1993,934423,38,John Williams
+9009,2023-06-01,184,Property_232,Land,171,7173 8th Ave,Philadelphia,PA,75837,8885,1970,424977,90,Linda Williams
+5285,2023-06-01,390,Property_456,Residential,144,2302 Cedar St,Chicago,IL,48252,3925,1964,450194,24,Patricia Johnson
+7581,2023-06-01,13,Property_134,Residential,22,794 Maple St,Houston,TX,50752,9034,1933,673747,2,Elizabeth Johnson
+1391,2023-06-01,434,Property_406,Land,68,8153 Pine St,Dallas,TX,45512,4400,2015,389404,38,Linda Davis
+9336,2023-06-01,231,Property_98,Land,142,872 Sunset Blvd,Philadelphia,PA,16294,6115,1913,810806,99,Michael Miller
+15,2023-06-01,126,Property_284,Residential,113,9535 Elm St,Houston,TX,24260,9675,1999,262219,99,Jennifer Johnson
+2550,2023-06-01,304,Property_207,Residential,33,2854 Oak St,Los Angeles,CA,77610,8875,1933,686442,6,William Miller
+3471,2023-06-01,208,Property_370,Residential,148,3718 2nd St,Phoenix,AZ,27178,6867,1986,509907,13,Patricia Williams
+6348,2023-06-01,234,Property_96,Land,26,3637 Maple St,Houston,TX,94804,534,2010,496258,78,Jennifer Davis
+9404,2023-06-01,499,Property_486,Residential,71,6221 River Rd,San Antonio,TX,96287,8183,2020,141567,52,Linda Garcia
+2894,2023-06-01,381,Property_136,Residential,145,3144 Elm St,Los Angeles,CA,45001,2691,2018,287094,33,Elizabeth Smith
+6516,2023-06-01,38,Property_249,Commercial,76,3299 Elm St,Houston,TX,39513,4105,1906,569901,91,Elizabeth Jones
+6081,2023-06-01,197,Property_62,Commercial,174,819 Pine St,San Jose,CA,15338,8018,1907,202475,53,Linda Jones
+3561,2023-06-01,392,Property_69,Commercial,4,2925 River Rd,San Antonio,TX,30453,896,2021,673119,10,Michael Miller
+955,2023-06-01,16,Property_231,Land,115,3781 Pine St,San Jose,CA,97070,4380,1952,168581,35,Robert Brown
+9466,2023-06-01,353,Property_241,Commercial,73,431 Sunset Blvd,San Antonio,TX,66522,8813,2021,244621,79,Linda Garcia
+1475,2023-06-01,397,Property_463,Land,9,167 2nd St,New York,NY,63539,7882,1932,588239,79,John Miller
+548,2023-06-01,230,Property_267,Land,161,4541 2nd St,San Antonio,TX,37961,3764,2021,724001,74,John Davis
+9857,2023-06-01,116,Property_123,Land,114,6643 Main St,San Diego,CA,36066,2024,2018,970237,49,Patricia Smith
+2749,2023-06-01,245,Property_316,Residential,195,7336 8th Ave,Los Angeles,CA,40057,1684,1990,531562,22,Michael Johnson
+2833,2023-06-01,172,Property_51,Residential,199,6689 Cedar St,New York,NY,75933,2525,1977,338411,46,Linda Davis
+3219,2023-06-02,87,Property_112,Residential,142,758 River Rd,Phoenix,AZ,11459,7298,1961,783593,63,Robert Miller
+2606,2023-06-02,71,Property_67,Residential,95,6554 Oak St,Houston,TX,34962,8265,1980,135081,98,Elizabeth Jones
+3834,2023-06-02,437,Property_270,Residential,45,4977 Pine St,Philadelphia,PA,69908,2919,1921,219319,70,James Jones
+6459,2023-06-02,281,Property_374,Commercial,10,5406 Pine St,Philadelphia,PA,36371,662,1983,913458,30,Jennifer Davis
+2133,2023-06-02,100,Property_457,Land,63,1460 Oak St,San Antonio,TX,56249,8846,1972,889691,31,William Davis
+4514,2023-06-02,132,Property_328,Residential,79,8076 Main St,Dallas,TX,90286,7501,1996,534990,80,James Jones
+1543,2023-06-02,167,Property_438,Residential,11,3005 Main St,Houston,TX,75721,2746,1950,975102,47,Michael Williams
+9374,2023-06-02,58,Property_279,Commercial,72,4128 Cedar St,New York,NY,86442,7419,2002,460690,34,Linda Miller
+1066,2023-06-02,59,Property_228,Land,191,138 Pine St,San Diego,CA,76180,9693,1922,349462,41,John Brown
+1525,2023-06-02,225,Property_47,Residential,153,4478 Elm St,New York,NY,91818,2000,1996,760292,22,John Jones
+6357,2023-06-02,26,Property_258,Commercial,173,6609 Oak St,San Diego,CA,28741,5029,1922,311009,45,John Brown
+4520,2023-06-02,131,Property_210,Land,20,182 Maple St,Los Angeles,CA,20091,9013,1937,496708,19,Elizabeth Garcia
+8566,2023-06-02,263,Property_112,Commercial,199,9150 Cedar St,Philadelphia,PA,91392,1619,1976,553025,73,Patricia Williams
+1777,2023-06-02,433,Property_123,Land,58,8883 Pine St,New York,NY,42155,2104,2022,557463,88,John Smith
+7537,2023-06-02,225,Property_311,Commercial,175,6312 Main St,Dallas,TX,65090,3213,1966,999475,76,Jennifer Jones
+8007,2023-06-02,342,Property_271,Land,133,2998 8th Ave,San Antonio,TX,60986,9827,1956,122789,27,Elizabeth Miller
+4175,2023-06-02,328,Property_88,Land,168,1662 Oak St,Philadelphia,PA,53419,5226,2008,757118,33,James Davis
+9029,2023-06-02,79,Property_466,Land,97,468 2nd St,Philadelphia,PA,95725,885,1982,577063,51,Michael Smith
+8619,2023-06-02,39,Property_51,Commercial,70,7589 River Rd,Dallas,TX,14716,3590,1911,702430,92,Robert Jones
+9272,2023-06-02,410,Property_74,Residential,149,9846 Pine St,San Jose,CA,50136,2368,1953,909113,26,William Williams
+290,2023-06-02,123,Property_274,Residential,181,7002 River Rd,San Diego,CA,90296,4896,1973,146517,98,William Jones
+3290,2023-06-02,33,Property_254,Land,162,7459 Cedar St,Los Angeles,CA,58780,876,2020,981815,68,Mary Jones
+9293,2023-06-02,364,Property_413,Commercial,95,5685 Main St,San Diego,CA,25633,8610,1978,406960,23,Michael Williams
+1347,2023-06-02,416,Property_206,Residential,121,8144 Main St,San Antonio,TX,79769,3337,1918,161323,29,Robert Davis
+9728,2023-06-02,171,Property_280,Residential,132,577 Cedar St,New York,NY,24507,1199,2012,549979,39,Elizabeth Smith
+396,2023-06-02,270,Property_139,Residential,89,368 Maple St,Philadelphia,PA,41660,4971,1959,914410,13,John Davis
+4861,2023-06-02,29,Property_107,Land,92,1418 2nd St,Philadelphia,PA,26799,2707,1952,697781,96,Patricia Garcia
+4358,2023-06-03,221,Property_275,Commercial,196,1636 Oak St,Houston,TX,34395,8444,1991,919303,100,Jennifer Garcia
+9708,2023-06-03,118,Property_73,Land,179,9059 Elm St,San Diego,CA,12061,4780,1956,659162,9,William Williams
+6955,2023-06-03,357,Property_152,Commercial,83,2687 8th Ave,San Antonio,TX,14028,3673,2005,148814,54,Linda Johnson
+6956,2023-06-03,419,Property_385,Commercial,184,8253 Cedar St,New York,NY,79737,2471,2005,311023,38,Michael Williams
+2360,2023-06-03,54,Property_261,Commercial,158,8149 Main St,Houston,TX,96351,2040,1953,164738,6,Robert Davis
+9733,2023-06-03,154,Property_135,Residential,177,1392 Sunset Blvd,Phoenix,AZ,61131,9168,1960,286291,15,Michael Miller
+2214,2023-06-03,68,Property_212,Residential,5,1835 Pine St,Phoenix,AZ,16111,1649,1975,871899,47,Patricia Davis
+5958,2023-06-03,409,Property_36,Commercial,151,1441 Main St,Chicago,IL,14914,9376,1909,877111,38,James Smith
+6973,2023-06-03,490,Property_216,Land,190,3348 2nd St,San Antonio,TX,53379,7694,2003,557116,60,John Williams
+9303,2023-06-03,195,Property_301,Residential,9,600 Maple St,New York,NY,94699,7180,2015,368926,69,Patricia Williams
+9437,2023-06-03,382,Property_252,Residential,141,2832 Sunset Blvd,Los Angeles,CA,26402,1469,1970,782204,40,Jennifer Garcia
+2935,2023-06-03,317,Property_48,Land,172,8879 2nd St,Houston,TX,83663,998,1942,437479,45,Mary Miller
+2132,2023-06-03,61,Property_177,Commercial,168,4157 8th Ave,San Diego,CA,57300,8163,1953,269593,41,Jennifer Brown
+4330,2023-06-03,125,Property_416,Commercial,18,7656 2nd St,Chicago,IL,77241,9429,1930,945824,72,Linda Miller
+7002,2023-06-03,308,Property_232,Residential,190,9118 Oak St,New York,NY,34827,2761,1919,520064,60,Michael Johnson
+6835,2023-06-03,60,Property_47,Land,23,7838 Elm St,San Antonio,TX,32820,9878,1935,432163,51,John Garcia
+6193,2023-06-03,115,Property_161,Commercial,120,5616 River Rd,Dallas,TX,45682,4433,1985,395677,4,Mary Jones
+8338,2023-06-03,2,Property_474,Commercial,50,713 Cedar St,Houston,TX,67114,2553,1995,671108,57,Elizabeth Johnson
+891,2023-06-03,444,Property_9,Commercial,51,3612 Oak St,San Jose,CA,42304,8595,1992,750918,14,Mary Smith
+7088,2023-06-03,494,Property_249,Commercial,27,7665 8th Ave,Dallas,TX,20444,3094,1965,251774,93,John Brown
+1830,2023-06-03,222,Property_251,Commercial,18,1808 Pine St,San Antonio,TX,71455,6227,1923,594559,27,William Garcia
+9595,2023-06-03,126,Property_317,Residential,136,9213 Main St,Philadelphia,PA,14847,6434,1946,565845,93,Jennifer Garcia
+2872,2023-06-03,123,Property_52,Land,163,1728 Oak St,Phoenix,AZ,66522,6077,1999,497318,58,Elizabeth Williams
+3023,2023-06-03,82,Property_159,Land,48,1236 Sunset Blvd,Chicago,IL,33788,920,1951,238024,50,Patricia Smith
+767,2023-06-03,273,Property_84,Land,14,3189 Pine St,Philadelphia,PA,98811,3906,1995,509575,34,Jennifer Smith
+7965,2023-06-03,353,Property_343,Residential,182,8480 Maple St,Phoenix,AZ,17023,8721,1997,455065,80,James Smith
+5940,2023-06-03,310,Property_447,Residential,13,7653 River Rd,San Antonio,TX,56527,1551,1905,746766,13,William Williams
+4051,2023-06-03,152,Property_123,Residential,188,7659 2nd St,Houston,TX,51464,8948,2016,821421,86,James Garcia
+1330,2023-06-03,112,Property_70,Commercial,27,2320 8th Ave,San Antonio,TX,72626,6590,1914,139680,10,Michael Jones
+1405,2023-06-03,164,Property_299,Land,36,820 Maple St,Chicago,IL,62104,7263,1923,281736,43,James Williams
+464,2023-06-03,288,Property_129,Land,108,9266 2nd St,Dallas,TX,58458,7995,1920,309457,91,Elizabeth Davis
+3116,2023-06-03,231,Property_421,Residential,16,2321 2nd St,Chicago,IL,43694,4809,1923,735349,6,Patricia Johnson
+3408,2023-06-03,174,Property_446,Commercial,115,3871 Main St,Dallas,TX,58673,1692,1967,147578,88,Patricia Smith
+6398,2023-06-03,317,Property_30,Land,25,8401 Pine St,San Diego,CA,45283,2830,1935,840119,94,Patricia Johnson
+3682,2023-06-03,480,Property_453,Residential,24,350 8th Ave,San Antonio,TX,35266,8420,1979,364437,79,Elizabeth Davis
+4079,2023-06-03,303,Property_266,Commercial,182,1432 Main St,Philadelphia,PA,57438,8037,2022,148736,48,James Johnson
+1174,2023-06-03,23,Property_335,Residential,129,7470 Maple St,San Diego,CA,87718,1754,1934,531617,82,Jennifer Brown
+3965,2023-06-03,472,Property_77,Commercial,178,6782 Elm St,Dallas,TX,62004,7886,1916,371328,87,Robert Davis
+7859,2023-06-03,382,Property_139,Residential,29,5013 Maple St,Chicago,IL,93564,5788,1998,697974,57,Mary Jones
+1200,2023-06-03,201,Property_69,Land,79,7265 Sunset Blvd,Philadelphia,PA,95554,3037,1928,814563,78,William Jones
+2715,2023-06-03,123,Property_306,Commercial,158,4876 Pine St,Los Angeles,CA,40427,4601,2009,948081,29,Jennifer Miller
+3503,2023-06-03,203,Property_59,Residential,81,8548 Pine St,Philadelphia,PA,72205,3788,1979,810509,53,Patricia Williams
+9059,2023-06-04,209,Property_131,Commercial,53,3359 River Rd,Philadelphia,PA,49314,3439,1967,969300,99,John Davis
+4949,2023-06-04,497,Property_75,Land,132,7849 Oak St,Los Angeles,CA,35449,5134,1956,522763,80,Mary Jones
+8890,2023-06-04,30,Property_432,Commercial,166,3241 Cedar St,New York,NY,80496,8847,1967,777381,31,Robert Garcia
+367,2023-06-04,380,Property_1,Commercial,27,5664 Oak St,Houston,TX,46534,700,1949,453379,56,William Brown
+5197,2023-06-04,408,Property_86,Land,41,6459 Elm St,San Jose,CA,25163,5246,1978,315063,40,William Williams
+4885,2023-06-04,290,Property_416,Land,1,4795 Sunset Blvd,New York,NY,96623,9821,1982,167497,87,William Jones
+4021,2023-06-04,124,Property_334,Commercial,92,5998 Main St,San Antonio,TX,45028,3929,1975,198306,69,James Johnson
+1649,2023-06-04,368,Property_347,Commercial,141,1968 Main St,Phoenix,AZ,99357,1119,1937,279258,58,John Davis
+1673,2023-06-04,318,Property_376,Land,107,8583 Maple St,New York,NY,44939,6152,1988,549880,80,Elizabeth Garcia
+7938,2023-06-04,472,Property_90,Commercial,103,9460 8th Ave,San Diego,CA,71909,7057,2001,278733,86,Robert Johnson
+3409,2023-06-04,232,Property_347,Residential,121,2334 River Rd,Houston,TX,15367,8530,1972,224899,88,William Miller
+6505,2023-06-04,263,Property_454,Commercial,109,6650 River Rd,New York,NY,29583,6252,1926,612876,86,Patricia Garcia
+6211,2023-06-04,472,Property_391,Commercial,83,1979 Elm St,Philadelphia,PA,96850,3913,1941,199508,95,John Jones
+836,2023-06-04,369,Property_41,Commercial,64,380 Maple St,Phoenix,AZ,40827,2986,1906,262670,79,William Johnson
+3329,2023-06-04,130,Property_367,Commercial,139,3111 Oak St,San Jose,CA,64930,682,1927,741744,48,Michael Miller
+9364,2023-06-04,165,Property_130,Residential,121,2585 Sunset Blvd,New York,NY,13467,9073,2011,727774,17,Linda Johnson
+4011,2023-06-04,377,Property_301,Residential,184,687 Pine St,Chicago,IL,88240,4326,1993,944122,83,Michael Garcia
+6881,2023-06-04,423,Property_10,Land,189,3790 River Rd,Phoenix,AZ,26463,8449,2001,486703,23,Jennifer Brown
+2469,2023-06-04,301,Property_453,Land,34,3877 Oak St,Philadelphia,PA,46303,3530,2009,925303,86,Linda Garcia
+7731,2023-06-04,69,Property_144,Land,176,7691 Maple St,Phoenix,AZ,41804,2374,1936,577985,17,William Johnson
+6948,2023-06-04,380,Property_225,Commercial,132,2457 River Rd,San Jose,CA,93674,5535,1967,354954,76,Elizabeth Miller
+9814,2023-06-04,457,Property_327,Residential,180,4741 8th Ave,Philadelphia,PA,54813,9433,1961,569912,31,James Garcia
+6095,2023-06-04,277,Property_156,Commercial,64,3605 River Rd,San Diego,CA,30363,9520,1950,355383,20,James Smith
+7070,2023-06-04,167,Property_340,Commercial,28,7795 Pine St,San Jose,CA,56739,5180,1941,696796,31,Elizabeth Johnson
+5789,2023-06-05,380,Property_323,Commercial,81,6647 Oak St,San Antonio,TX,99483,979,1942,560288,98,Michael Williams
+3999,2023-06-05,141,Property_171,Residential,157,6439 River Rd,San Antonio,TX,52259,8148,1921,142484,2,Elizabeth Brown
+6046,2023-06-05,13,Property_15,Land,194,4384 Main St,San Jose,CA,99435,8832,2019,682485,87,Linda Johnson
+3379,2023-06-05,159,Property_11,Commercial,136,9700 Elm St,Los Angeles,CA,37830,8195,1969,620046,66,Michael Brown
+9749,2023-06-05,338,Property_481,Commercial,133,3993 Sunset Blvd,Los Angeles,CA,63783,7088,2002,871791,74,Jennifer Williams
+3945,2023-06-05,363,Property_43,Residential,46,4403 2nd St,Houston,TX,12364,516,1984,976984,36,Jennifer Garcia
+2444,2023-06-05,61,Property_394,Commercial,40,8704 Elm St,Houston,TX,55923,5696,1999,147089,3,Linda Johnson
+5152,2023-06-05,429,Property_332,Commercial,154,6372 Main St,Phoenix,AZ,75115,8597,1998,295384,66,Elizabeth Johnson
+8772,2023-06-05,301,Property_317,Commercial,159,4578 2nd St,Philadelphia,PA,84902,6556,1907,384379,11,James Jones
+3067,2023-06-05,30,Property_436,Commercial,92,6356 8th Ave,Dallas,TX,92109,8179,1991,456141,1,Elizabeth Smith
+9761,2023-06-05,351,Property_232,Commercial,193,6983 Cedar St,Los Angeles,CA,48889,6531,1979,137924,86,William Davis
+1201,2023-06-05,436,Property_309,Residential,23,6148 Sunset Blvd,Chicago,IL,81655,5498,1908,382726,18,Michael Johnson
+9345,2023-06-05,205,Property_59,Land,70,7335 8th Ave,San Antonio,TX,46411,9360,1952,835896,15,Robert Johnson
+4775,2023-06-05,446,Property_267,Commercial,80,2971 Cedar St,Philadelphia,PA,29933,8452,1971,770298,94,Robert Williams
+2167,2023-06-05,191,Property_434,Commercial,46,2798 River Rd,Houston,TX,65001,4879,1926,548960,10,James Davis
+8747,2023-06-05,489,Property_85,Residential,48,3953 8th Ave,Houston,TX,57988,7212,1910,790410,45,Elizabeth Brown
+3040,2023-06-05,175,Property_151,Residential,105,8659 Sunset Blvd,Philadelphia,PA,53582,5353,1929,960458,7,Patricia Johnson
+5230,2023-06-05,332,Property_154,Residential,80,7830 8th Ave,Los Angeles,CA,45540,6044,1969,768318,50,William Garcia
+3364,2023-06-05,458,Property_128,Land,148,9224 8th Ave,Phoenix,AZ,68758,6094,1957,696818,15,Mary Miller
+4920,2023-06-05,86,Property_262,Residential,166,2505 Pine St,New York,NY,96029,9683,1929,338904,15,Robert Williams
+7447,2023-06-05,129,Property_210,Residential,83,7874 Elm St,San Diego,CA,97835,7617,1989,916250,100,James Davis
+8814,2023-06-05,495,Property_234,Residential,131,539 Main St,Chicago,IL,99326,5672,2006,681117,7,Jennifer Garcia
+7266,2023-06-05,249,Property_113,Land,200,2183 Sunset Blvd,Philadelphia,PA,19862,8964,1962,615273,57,William Garcia
+7834,2023-06-05,189,Property_182,Commercial,70,6000 8th Ave,Houston,TX,52208,5233,1946,434558,32,Elizabeth Smith
+9039,2023-06-05,155,Property_59,Residential,199,4673 Cedar St,Dallas,TX,58271,3425,2008,807159,58,Michael Smith
+3695,2023-06-05,166,Property_315,Land,56,8591 Oak St,Chicago,IL,53575,6379,1953,939725,21,Linda Brown
+7520,2023-06-05,132,Property_498,Residential,114,1198 Pine St,Dallas,TX,63051,1416,1991,448911,18,Robert Williams
+2001,2023-06-05,324,Property_57,Residential,198,3888 Sunset Blvd,Houston,TX,56870,6961,1981,255706,29,Elizabeth Garcia
+3818,2023-06-05,172,Property_240,Land,39,8241 Cedar St,San Antonio,TX,33851,8007,2014,875561,38,Robert Miller
+4637,2023-06-05,191,Property_470,Commercial,163,838 Main St,Philadelphia,PA,49841,1315,1901,792922,95,Michael Miller
+687,2023-06-05,242,Property_111,Residential,38,2813 Sunset Blvd,San Jose,CA,72437,5521,1937,378440,56,Patricia Smith
+6542,2023-06-06,154,Property_264,Land,99,3739 Main St,Los Angeles,CA,15517,7337,1931,660113,10,Linda Jones
+92,2023-06-06,207,Property_165,Land,70,6292 2nd St,San Jose,CA,92051,5044,1915,461619,69,Jennifer Brown
+6447,2023-06-06,146,Property_349,Land,56,9458 2nd St,Los Angeles,CA,76839,3744,1913,517560,72,Michael Johnson
+3388,2023-06-06,77,Property_44,Land,95,5043 Oak St,San Diego,CA,52805,7627,1922,893482,18,Patricia Brown
+1729,2023-06-06,349,Property_231,Land,14,5371 Sunset Blvd,Los Angeles,CA,93425,6815,1900,343813,69,John Jones
+3860,2023-06-06,215,Property_431,Land,149,2600 Main St,New York,NY,76371,2551,1993,164055,87,Mary Miller
+3200,2023-06-06,28,Property_103,Commercial,155,7342 Elm St,San Jose,CA,15553,4294,2022,758713,16,Michael Miller
+6938,2023-06-06,401,Property_27,Commercial,50,4350 8th Ave,Phoenix,AZ,69050,9695,1929,277306,41,William Johnson
+2165,2023-06-06,378,Property_220,Commercial,150,699 Elm St,Houston,TX,58336,4319,1991,620174,50,Robert Davis
+3694,2023-06-06,272,Property_325,Residential,137,3583 Elm St,Phoenix,AZ,57718,2048,1950,325671,18,Mary Jones
+2049,2023-06-06,48,Property_465,Commercial,134,5196 Cedar St,Phoenix,AZ,39446,6990,1949,413701,31,Linda Davis
+1083,2023-06-06,125,Property_74,Land,118,3663 Sunset Blvd,Chicago,IL,84036,9797,2009,307225,84,James Williams
+8174,2023-06-06,176,Property_484,Land,80,4347 Sunset Blvd,San Antonio,TX,71349,7199,1969,628675,23,Robert Miller
+6661,2023-06-06,189,Property_444,Residential,77,2798 Cedar St,Philadelphia,PA,93317,6600,1934,530905,63,Elizabeth Miller
+1080,2023-06-06,8,Property_106,Residential,40,7412 River Rd,Phoenix,AZ,74816,7922,2006,197951,47,Linda Davis
+1108,2023-06-06,338,Property_51,Residential,106,6719 Elm St,Philadelphia,PA,15404,5398,1920,755921,81,James Smith
+9258,2023-06-06,143,Property_413,Residential,85,5098 Cedar St,Houston,TX,79457,6265,2006,774120,29,James Jones
+9903,2023-06-06,352,Property_356,Commercial,63,6149 8th Ave,Dallas,TX,97875,8572,1959,553505,79,Michael Davis
+4333,2023-06-06,277,Property_223,Land,35,3851 Oak St,Dallas,TX,94763,8058,1997,899589,30,John Jones
+6993,2023-06-06,431,Property_107,Residential,184,1578 Maple St,Philadelphia,PA,98594,4815,1975,840260,81,Elizabeth Williams
+1105,2023-06-06,183,Property_246,Residential,63,4367 Cedar St,Philadelphia,PA,60215,6633,1990,807940,36,Mary Miller
+4305,2023-06-06,426,Property_299,Commercial,166,3801 2nd St,Los Angeles,CA,58638,4982,1910,630546,52,William Smith
+2316,2023-06-07,34,Property_477,Residential,40,7169 Cedar St,Phoenix,AZ,27422,3357,2005,537714,93,Elizabeth Smith
+6296,2023-06-07,481,Property_466,Land,140,1122 Cedar St,Dallas,TX,27825,8939,1964,494428,89,Michael Williams
+8573,2023-06-07,259,Property_376,Commercial,66,1496 Sunset Blvd,Dallas,TX,97373,1293,1917,658377,56,William Smith
+6748,2023-06-07,376,Property_27,Commercial,23,7653 8th Ave,Philadelphia,PA,68794,1364,2016,124060,17,William Johnson
+6060,2023-06-07,425,Property_355,Land,111,9952 Main St,San Antonio,TX,99607,5106,1925,256248,29,Mary Brown
+430,2023-06-07,187,Property_319,Land,134,9663 Maple St,Los Angeles,CA,21523,1236,1975,558226,51,John Williams
+3164,2023-06-07,108,Property_232,Commercial,153,4142 2nd St,Philadelphia,PA,41882,5311,1999,800907,59,Michael Brown
+310,2023-06-07,189,Property_41,Commercial,65,475 Main St,Dallas,TX,41304,6797,2008,525680,60,Linda Smith
+2376,2023-06-07,378,Property_128,Commercial,24,4907 Maple St,San Jose,CA,99910,965,1945,734456,24,Patricia Williams
+2378,2023-06-07,420,Property_24,Commercial,181,624 Maple St,San Diego,CA,56839,6361,1969,206337,50,Patricia Miller
+9496,2023-06-07,153,Property_372,Residential,132,3565 River Rd,Philadelphia,PA,85391,4068,1939,549714,34,Mary Davis
+3638,2023-06-07,9,Property_204,Land,151,7321 Main St,Dallas,TX,78053,8967,1954,666420,7,Elizabeth Miller
+1310,2023-06-07,104,Property_49,Commercial,123,7130 Pine St,Chicago,IL,52326,4680,1967,223909,35,John Smith
+5309,2023-06-07,182,Property_464,Commercial,121,8557 Sunset Blvd,Phoenix,AZ,22202,6087,1945,630959,97,Patricia Smith
+3294,2023-06-07,368,Property_444,Commercial,124,2759 Maple St,Phoenix,AZ,84032,9455,1922,628293,100,John Garcia
+6864,2023-06-07,259,Property_312,Land,196,3378 Elm St,San Antonio,TX,60728,8784,1903,556460,43,Michael Johnson
+333,2023-06-07,286,Property_407,Commercial,43,2440 Sunset Blvd,Los Angeles,CA,75602,7997,1968,229038,35,Jennifer Jones
+9149,2023-06-07,205,Property_304,Commercial,14,2839 Pine St,San Antonio,TX,48207,2234,1925,879557,99,Patricia Davis
+1521,2023-06-07,497,Property_46,Commercial,25,7765 River Rd,Phoenix,AZ,30400,2812,1975,841707,39,John Brown
+1222,2023-06-07,379,Property_310,Land,44,4866 Maple St,San Antonio,TX,31304,7007,1935,404930,18,Linda Smith
+9858,2023-06-07,88,Property_292,Land,40,8199 2nd St,San Antonio,TX,99534,5791,2007,621028,81,Robert Jones
+7638,2023-06-07,298,Property_210,Commercial,6,3386 Main St,Dallas,TX,87425,682,2022,190818,71,Michael Garcia
+2172,2023-06-07,367,Property_264,Land,119,2710 River Rd,Philadelphia,PA,58207,2462,2002,502402,73,James Brown
+2741,2023-06-07,128,Property_225,Commercial,131,1681 Elm St,New York,NY,19552,4904,2021,389404,70,Jennifer Garcia
+1661,2023-06-07,92,Property_164,Residential,42,6360 Oak St,Dallas,TX,88938,4242,1979,637435,42,James Williams
+7574,2023-06-07,360,Property_167,Residential,4,2298 Elm St,Chicago,IL,58539,5136,1994,976783,100,James Jones
+8464,2023-06-07,335,Property_433,Residential,12,6645 Oak St,San Jose,CA,57152,607,1974,708760,53,Linda Brown
+8749,2023-06-07,423,Property_371,Land,162,4675 Maple St,San Diego,CA,51032,5514,1981,256521,1,Michael Williams
+9960,2023-06-07,181,Property_94,Residential,56,3976 8th Ave,Houston,TX,39229,6469,1964,703174,52,James Williams
+3007,2023-06-07,255,Property_112,Residential,15,9630 Sunset Blvd,Phoenix,AZ,50382,8903,1997,938961,73,John Smith
+2185,2023-06-08,99,Property_299,Land,15,6255 Oak St,Chicago,IL,65540,2351,1936,935950,26,Robert Williams
+7979,2023-06-08,428,Property_218,Residential,28,4404 Pine St,New York,NY,58489,3546,1908,293232,2,Michael Brown
+4707,2023-06-08,252,Property_121,Residential,176,5712 2nd St,San Diego,CA,33585,2741,1968,284464,7,Linda Miller
+1098,2023-06-08,339,Property_142,Residential,118,2335 River Rd,San Jose,CA,18232,4683,1924,703367,53,John Williams
+8127,2023-06-08,132,Property_167,Commercial,153,1169 Cedar St,Dallas,TX,45024,6620,1968,536684,68,Linda Johnson
+5475,2023-06-08,106,Property_68,Land,111,9483 River Rd,San Jose,CA,56291,8320,1961,500846,76,Elizabeth Brown
+7891,2023-06-08,83,Property_180,Residential,75,6107 Elm St,Houston,TX,52352,2696,1972,919978,33,Patricia Miller
+2743,2023-06-08,475,Property_150,Residential,165,7979 Maple St,New York,NY,34631,9269,2019,463290,50,Jennifer Williams
+5781,2023-06-08,121,Property_420,Commercial,118,9476 Main St,Chicago,IL,14668,725,1973,500878,97,Patricia Miller
+9711,2023-06-08,451,Property_317,Land,164,8851 River Rd,Dallas,TX,19843,716,1908,382459,86,Mary Miller
+3903,2023-06-08,436,Property_294,Residential,162,8306 8th Ave,San Antonio,TX,41816,8303,1907,230346,72,James Johnson
+9738,2023-06-08,235,Property_319,Residential,116,8471 Oak St,New York,NY,63706,1361,1954,988565,59,Michael Williams
+7319,2023-06-08,143,Property_103,Residential,129,7562 Main St,San Antonio,TX,32013,9417,1931,218732,31,Mary Smith
+2092,2023-06-08,313,Property_272,Land,133,471 Elm St,Houston,TX,46559,8380,1990,790795,45,John Johnson
+7646,2023-06-08,177,Property_316,Residential,169,7887 Sunset Blvd,Chicago,IL,99508,8405,1927,179179,85,William Smith
+9227,2023-06-08,201,Property_155,Land,61,6760 2nd St,Los Angeles,CA,77234,4147,2015,314977,7,Elizabeth Johnson
+1909,2023-06-08,241,Property_231,Land,116,5347 Sunset Blvd,Houston,TX,36781,667,1902,206596,3,William Williams
+1474,2023-06-08,86,Property_206,Land,84,8837 Oak St,San Antonio,TX,64587,1419,2007,290383,58,Linda Williams
+5683,2023-06-08,396,Property_67,Land,68,1019 Maple St,San Jose,CA,76053,5927,1920,732946,1,Patricia Smith
+2492,2023-06-09,82,Property_219,Commercial,25,1783 Pine St,San Diego,CA,57030,3013,1981,253782,41,Mary Davis
+2866,2023-06-09,95,Property_289,Land,97,373 Pine St,San Jose,CA,19549,2401,1994,372187,80,John Smith
+1579,2023-06-09,250,Property_90,Residential,129,1545 8th Ave,New York,NY,61552,7816,1918,408993,80,Jennifer Miller
+269,2023-06-09,275,Property_202,Residential,131,4622 Sunset Blvd,Houston,TX,55337,2455,1919,776264,37,Jennifer Smith
+4554,2023-06-09,423,Property_482,Residential,167,5404 River Rd,Los Angeles,CA,73670,9748,1943,486925,89,William Jones
+9162,2023-06-09,476,Property_363,Commercial,199,8364 Elm St,Phoenix,AZ,95715,8547,2009,206231,78,Elizabeth Brown
+2596,2023-06-09,421,Property_322,Land,136,8607 Sunset Blvd,San Jose,CA,54216,4578,1938,448775,58,William Jones
+5091,2023-06-09,458,Property_452,Land,116,3966 Cedar St,Dallas,TX,35482,9563,2004,431797,54,Linda Williams
+219,2023-06-09,376,Property_209,Residential,152,2258 Pine St,Philadelphia,PA,34620,5375,1989,833069,63,Jennifer Garcia
+192,2023-06-09,30,Property_129,Residential,87,7363 River Rd,Chicago,IL,27140,6491,2005,412104,35,William Garcia
+1659,2023-06-09,17,Property_490,Residential,129,2475 Sunset Blvd,Los Angeles,CA,36552,1050,1916,144553,96,John Garcia
+8422,2023-06-09,16,Property_17,Commercial,16,1982 2nd St,Los Angeles,CA,15873,7042,1996,508468,32,Jennifer Williams
+3373,2023-06-09,423,Property_38,Commercial,93,3434 8th Ave,Houston,TX,64579,6345,1912,213125,7,Elizabeth Garcia
+659,2023-06-09,106,Property_323,Land,88,3189 Sunset Blvd,Los Angeles,CA,80410,4929,1996,265223,92,James Miller
+2240,2023-06-09,373,Property_456,Land,128,7313 Pine St,San Antonio,TX,97587,4535,1956,903567,48,Linda Brown
+838,2023-06-09,379,Property_301,Land,37,3096 River Rd,Phoenix,AZ,93634,2100,1952,834571,46,Linda Davis
+4024,2023-06-09,310,Property_68,Land,98,2428 Elm St,Phoenix,AZ,39445,8863,1942,428947,88,Linda Williams
+3656,2023-06-09,371,Property_159,Residential,27,5836 River Rd,San Jose,CA,74183,5745,1989,381760,93,James Jones
+1814,2023-06-09,244,Property_362,Residential,58,2275 2nd St,New York,NY,90106,8184,1974,512123,70,James Jones
+6212,2023-06-09,253,Property_102,Residential,81,1840 Pine St,Dallas,TX,60971,2391,1930,641259,83,Linda Davis
+503,2023-06-09,390,Property_403,Residential,192,3516 Main St,New York,NY,47254,655,1950,687542,59,Michael Miller
+2424,2023-06-09,184,Property_245,Commercial,63,6890 Maple St,San Diego,CA,90403,7429,2018,515354,8,Mary Jones
+3849,2023-06-09,121,Property_189,Commercial,139,4150 8th Ave,Dallas,TX,33960,7025,1976,340959,14,Linda Williams
+2284,2023-06-09,366,Property_441,Residential,81,8933 Cedar St,New York,NY,98363,9456,1963,582704,91,Robert Smith
+153,2023-06-09,463,Property_497,Commercial,117,6251 Maple St,Houston,TX,78332,7902,2011,929656,38,Mary Smith
+5762,2023-06-09,280,Property_64,Residential,76,6611 Pine St,Philadelphia,PA,69717,4829,2011,417034,85,Linda Miller
+1490,2023-06-10,227,Property_180,Commercial,181,1718 Elm St,Dallas,TX,60782,5772,1974,514267,36,James Williams
+7231,2023-06-10,354,Property_126,Land,30,3188 Elm St,Chicago,IL,63126,5082,1988,410838,81,Patricia Johnson
+2774,2023-06-10,141,Property_75,Commercial,198,5323 Cedar St,Houston,TX,88648,6214,2008,123572,73,Linda Brown
+3914,2023-06-10,464,Property_211,Commercial,114,5756 Sunset Blvd,Philadelphia,PA,24047,1748,1992,687646,58,Linda Williams
+280,2023-06-10,82,Property_117,Land,29,1496 Main St,New York,NY,54574,4533,2020,870672,55,Michael Garcia
+1002,2023-06-10,89,Property_125,Land,81,2434 Main St,Dallas,TX,64006,1811,1984,278853,64,Robert Johnson
+1820,2023-06-10,133,Property_204,Residential,180,7905 Pine St,San Diego,CA,38986,1175,1905,273798,88,John Jones
+7498,2023-06-10,480,Property_293,Land,199,4919 Maple St,Philadelphia,PA,18484,9924,1997,582635,97,Michael Williams
+6677,2023-06-10,430,Property_174,Commercial,149,3767 2nd St,San Diego,CA,76414,1604,1930,898534,20,John Miller
+349,2023-06-10,6,Property_19,Residential,17,1096 Sunset Blvd,San Diego,CA,80627,3261,1935,864129,14,Jennifer Johnson
+2084,2023-06-10,345,Property_162,Land,56,7486 Oak St,Chicago,IL,72121,5554,1974,151840,39,Elizabeth Miller
+24,2023-06-10,257,Property_370,Commercial,88,7389 Elm St,San Diego,CA,37877,6520,1988,446042,91,John Smith
+2234,2023-06-10,183,Property_375,Land,123,2183 2nd St,Philadelphia,PA,55854,6804,2022,949461,17,John Brown
+9536,2023-06-10,229,Property_264,Commercial,160,1286 River Rd,San Jose,CA,31412,3127,1945,643231,61,William Williams
+2886,2023-06-10,139,Property_318,Commercial,22,2311 Cedar St,Philadelphia,PA,54939,9103,2018,927677,78,Michael Johnson
+8523,2023-06-10,23,Property_395,Residential,82,6621 Sunset Blvd,New York,NY,93645,2142,2013,624231,16,James Jones
+8472,2023-06-10,117,Property_307,Land,139,453 Maple St,Phoenix,AZ,88499,3202,1930,958460,8,Mary Brown
+6100,2023-06-10,294,Property_20,Land,46,6919 Main St,New York,NY,84597,6428,1956,452072,48,Linda Miller
+1281,2023-06-10,449,Property_186,Residential,182,3344 8th Ave,Philadelphia,PA,74767,5432,1996,991637,9,William Brown
+6023,2023-06-10,121,Property_53,Residential,80,3233 Maple St,Houston,TX,89267,9508,1996,105927,58,William Garcia
+8935,2023-06-10,269,Property_487,Land,120,8603 Cedar St,Los Angeles,CA,73381,3010,1937,809273,60,Linda Davis
+1195,2023-06-10,209,Property_285,Land,170,4230 8th Ave,San Diego,CA,79739,5632,1977,800963,97,Elizabeth Brown
+8325,2023-06-10,299,Property_499,Land,65,3061 Sunset Blvd,Philadelphia,PA,79627,3141,1901,357094,62,William Jones
+4422,2023-06-10,277,Property_279,Residential,43,9511 2nd St,Houston,TX,69791,8818,1929,861049,54,Jennifer Smith
+9129,2023-06-10,399,Property_339,Commercial,104,5271 Main St,Dallas,TX,97667,6478,1992,819092,52,John Williams
+2342,2023-06-10,352,Property_49,Land,1,8273 Oak St,Philadelphia,PA,67971,8837,1901,512809,45,Robert Williams
+8071,2023-06-10,172,Property_319,Land,194,2665 Main St,Dallas,TX,80230,9972,1976,186988,50,Elizabeth Williams
+9305,2023-06-10,300,Property_227,Land,175,9378 Cedar St,Houston,TX,61690,3428,1914,947309,34,Elizabeth Williams
+3302,2023-06-10,364,Property_368,Commercial,196,2151 Sunset Blvd,San Jose,CA,79538,3545,1971,608036,45,Elizabeth Miller
+4788,2023-06-10,301,Property_99,Residential,154,1539 Oak St,San Jose,CA,35747,900,1951,836380,89,Robert Garcia
+298,2023-06-10,258,Property_304,Commercial,55,2017 Sunset Blvd,Phoenix,AZ,74478,8076,1968,813367,28,Linda Jones
+7006,2023-06-10,36,Property_418,Land,11,7237 Maple St,San Diego,CA,28371,6912,1960,797954,27,Linda Williams
+3937,2023-06-10,476,Property_162,Land,194,8876 Maple St,Dallas,TX,39600,5836,1933,820599,48,Robert Williams
+5897,2023-06-10,336,Property_83,Commercial,180,819 8th Ave,Dallas,TX,42107,3601,1930,343092,8,James Williams
+3140,2023-06-10,251,Property_242,Commercial,37,8302 River Rd,San Jose,CA,19968,8457,2013,359618,58,Elizabeth Williams
+2018,2023-06-10,250,Property_241,Residential,152,5739 Main St,San Diego,CA,13439,5030,1910,429216,93,Patricia Smith
+3009,2023-06-11,494,Property_72,Land,199,8101 Oak St,San Jose,CA,50953,8597,2003,272346,30,Robert Miller
+1750,2023-06-11,481,Property_232,Residential,23,2291 2nd St,San Diego,CA,52305,7657,2007,108928,63,Patricia Johnson
+5297,2023-06-11,72,Property_209,Commercial,9,5653 8th Ave,San Diego,CA,47391,8295,1957,156121,57,John Brown
+3616,2023-06-11,16,Property_345,Commercial,107,8563 Pine St,Houston,TX,44057,1279,1959,698582,28,Michael Brown
+3831,2023-06-11,272,Property_394,Land,113,4148 2nd St,San Diego,CA,47844,608,2000,303256,44,Jennifer Smith
+769,2023-06-11,451,Property_183,Residential,21,9731 Pine St,Los Angeles,CA,73743,9222,2021,441474,56,William Davis
+9576,2023-06-11,269,Property_353,Land,79,1711 River Rd,Philadelphia,PA,61245,968,1926,150138,76,Jennifer Miller
+4164,2023-06-11,275,Property_465,Residential,84,4527 Pine St,San Jose,CA,12084,6097,2015,161479,14,Jennifer Johnson
+5761,2023-06-11,452,Property_133,Residential,179,958 Cedar St,Phoenix,AZ,26697,7607,2004,919357,25,Jennifer Johnson
+4574,2023-06-11,39,Property_240,Commercial,68,8878 Main St,New York,NY,21011,859,1912,527624,39,Mary Smith
+4228,2023-06-11,134,Property_18,Land,83,2320 Sunset Blvd,Houston,TX,91400,9299,1986,933817,50,Patricia Garcia
+8774,2023-06-11,496,Property_500,Commercial,78,9992 8th Ave,San Antonio,TX,55195,9330,1951,659857,93,Mary Garcia
+7628,2023-06-11,7,Property_11,Commercial,187,6921 2nd St,Philadelphia,PA,60862,1909,1957,723882,27,William Smith
+7677,2023-06-11,18,Property_498,Residential,79,6141 Elm St,Chicago,IL,61826,9599,2020,705323,59,Patricia Davis
+3211,2023-06-11,31,Property_266,Residential,77,774 Cedar St,San Jose,CA,61947,7902,1961,416908,85,Jennifer Davis
+8251,2023-06-11,405,Property_310,Residential,114,9477 8th Ave,Philadelphia,PA,14071,6358,2021,333811,83,Robert Smith
+5373,2023-06-11,356,Property_396,Land,173,9568 Elm St,Chicago,IL,49999,8245,1946,223565,24,William Garcia
+3442,2023-06-11,20,Property_258,Commercial,192,8958 Main St,Chicago,IL,11444,8463,1901,156894,43,Jennifer Garcia
+2740,2023-06-11,228,Property_82,Commercial,45,8653 Elm St,Houston,TX,33589,3274,1936,740436,34,Michael Miller
+6660,2023-06-11,423,Property_65,Residential,121,6003 River Rd,Los Angeles,CA,93371,1793,1963,795812,29,Michael Smith
+6786,2023-06-11,216,Property_202,Residential,66,7952 Pine St,Chicago,IL,81309,5352,1975,946770,99,Michael Davis
+3702,2023-06-11,473,Property_426,Land,20,2243 Cedar St,Chicago,IL,65695,6057,2019,706928,77,Linda Brown
+7051,2023-06-11,306,Property_494,Commercial,80,2013 2nd St,New York,NY,99890,8228,1989,470770,99,Robert Williams
+5799,2023-06-11,360,Property_458,Commercial,172,8544 Cedar St,Philadelphia,PA,48687,1557,1950,284595,73,Robert Brown
+1245,2023-06-11,493,Property_17,Land,32,856 River Rd,San Diego,CA,86061,1737,1996,950046,12,Jennifer Miller
+9126,2023-06-11,330,Property_137,Residential,189,1920 2nd St,Phoenix,AZ,30840,4593,2008,227844,25,Linda Davis
+3764,2023-06-11,252,Property_463,Commercial,41,2618 Oak St,Chicago,IL,39598,7089,2021,110610,41,James Jones
+7778,2023-06-11,335,Property_180,Land,82,8859 Cedar St,San Jose,CA,79039,1307,1921,897370,60,Linda Johnson
+72,2023-06-11,68,Property_129,Land,97,1411 Oak St,San Antonio,TX,60106,9116,1963,324578,78,Jennifer Williams
+1751,2023-06-12,468,Property_389,Land,158,4284 Pine St,San Antonio,TX,51750,2640,2014,413322,35,John Garcia
+3802,2023-06-12,412,Property_368,Commercial,109,2842 2nd St,San Jose,CA,24869,3261,2010,507163,39,Patricia Garcia
+5415,2023-06-12,152,Property_246,Residential,106,5258 8th Ave,Los Angeles,CA,32591,4853,1917,670163,55,Jennifer Jones
+1683,2023-06-12,284,Property_176,Residential,62,2430 Cedar St,San Diego,CA,63249,5099,2014,330056,72,Linda Johnson
+8921,2023-06-12,241,Property_360,Commercial,168,9559 Elm St,San Jose,CA,82267,9292,1925,558427,79,Mary Garcia
+5684,2023-06-12,349,Property_199,Residential,41,9031 Maple St,San Diego,CA,16825,9109,1904,819707,73,William Smith
+5405,2023-06-12,1,Property_97,Land,148,1824 8th Ave,San Jose,CA,91674,7781,2021,688596,82,Michael Smith
+2840,2023-06-12,378,Property_102,Commercial,69,5621 Oak St,Phoenix,AZ,91813,5502,1994,210597,35,William Davis
+5900,2023-06-12,179,Property_166,Commercial,64,5845 Elm St,Phoenix,AZ,77369,3939,2005,426789,12,Elizabeth Williams
+9772,2023-06-12,15,Property_213,Land,163,2527 8th Ave,Houston,TX,26019,3578,1979,641024,57,William Garcia
+594,2023-06-12,308,Property_406,Land,85,4670 8th Ave,San Diego,CA,59012,3177,1954,501455,25,Jennifer Williams
+4828,2023-06-12,485,Property_60,Land,96,5475 Main St,New York,NY,44486,2740,1984,831039,21,Robert Miller
+9473,2023-06-12,186,Property_487,Residential,80,6548 Main St,San Antonio,TX,60249,8942,1986,119493,78,Elizabeth Garcia
+7832,2023-06-12,52,Property_402,Commercial,4,6969 Main St,Dallas,TX,27276,2464,1934,112709,69,Mary Miller
+1966,2023-06-12,114,Property_498,Residential,102,4735 Oak St,Phoenix,AZ,19240,9575,1949,813819,75,Robert Smith
+9092,2023-06-12,358,Property_39,Residential,1,649 Maple St,Houston,TX,60156,9262,2019,389838,39,Michael Brown
+2385,2023-06-12,424,Property_375,Commercial,145,8949 Elm St,San Diego,CA,13595,9900,1961,211316,16,John Davis
+105,2023-06-12,297,Property_156,Residential,8,3146 2nd St,New York,NY,81126,6974,1951,217082,24,Robert Garcia
+4032,2023-06-12,188,Property_363,Residential,105,6427 Main St,Dallas,TX,63651,8847,1958,602016,20,Jennifer Miller
+3528,2023-06-12,305,Property_33,Land,80,8470 Maple St,Houston,TX,55386,2925,1929,542001,84,William Miller
+8230,2023-06-12,253,Property_327,Residential,171,6755 2nd St,Phoenix,AZ,77182,6168,1963,920623,36,Michael Brown
+5291,2023-06-12,485,Property_357,Commercial,187,6410 River Rd,Dallas,TX,80130,3479,2014,846369,15,Robert Williams
+3044,2023-06-12,259,Property_255,Land,117,8510 River Rd,San Diego,CA,96782,1954,1983,839340,15,Jennifer Jones
+507,2023-06-12,257,Property_403,Land,142,8218 River Rd,San Jose,CA,20853,8833,1921,897427,27,Jennifer Davis
+4796,2023-06-12,461,Property_59,Residential,178,9531 Cedar St,San Diego,CA,26700,4374,1948,996164,83,William Davis
+3568,2023-06-12,233,Property_447,Land,117,9027 Main St,Philadelphia,PA,45886,861,2014,261603,74,Robert Williams
+5440,2023-06-12,215,Property_461,Residential,121,7708 Cedar St,Phoenix,AZ,56315,721,1947,737606,39,John Johnson
+8776,2023-06-12,162,Property_54,Land,175,6790 Maple St,San Diego,CA,35065,2980,1968,744696,86,Michael Brown
+295,2023-06-12,479,Property_453,Residential,50,1449 Sunset Blvd,Phoenix,AZ,77083,4753,2007,511129,75,Patricia Davis
+7230,2023-06-13,389,Property_387,Commercial,181,1002 Pine St,New York,NY,78285,8994,1943,779273,78,Mary Garcia
+1969,2023-06-13,499,Property_390,Land,178,806 Maple St,Philadelphia,PA,48275,6790,1989,172846,60,Elizabeth Miller
+1381,2023-06-13,24,Property_390,Commercial,96,6434 Elm St,San Diego,CA,32719,9011,2004,792890,15,John Garcia
+2590,2023-06-13,24,Property_117,Land,52,1603 Main St,Houston,TX,62734,4893,1957,228725,80,Michael Smith
+5245,2023-06-13,397,Property_255,Commercial,98,8400 Elm St,San Antonio,TX,93148,8447,2009,797790,48,Michael Garcia
+3136,2023-06-13,143,Property_499,Commercial,182,2925 Main St,San Jose,CA,97826,3203,2018,580538,26,Linda Miller
+7996,2023-06-13,363,Property_308,Residential,3,8110 Sunset Blvd,New York,NY,79126,5716,1946,608328,63,Patricia Brown
+9591,2023-06-13,288,Property_436,Land,56,9736 Cedar St,Philadelphia,PA,18049,1296,1924,345493,35,Mary Johnson
+3481,2023-06-13,33,Property_159,Commercial,86,3170 Maple St,Houston,TX,63324,3794,1969,807050,25,Elizabeth Johnson
+6429,2023-06-13,309,Property_440,Commercial,171,6896 River Rd,Los Angeles,CA,42338,5156,2022,252090,29,Elizabeth Brown
+3591,2023-06-13,332,Property_343,Land,73,8168 Sunset Blvd,Los Angeles,CA,30537,4509,2003,224628,61,William Johnson
+7909,2023-06-13,397,Property_125,Land,37,8095 Sunset Blvd,Dallas,TX,54211,9848,1972,528381,42,Mary Miller
+2969,2023-06-13,277,Property_357,Commercial,133,679 Sunset Blvd,Phoenix,AZ,92724,1668,2007,484417,21,Michael Brown
+2493,2023-06-13,154,Property_498,Land,70,4382 Pine St,Phoenix,AZ,21125,9713,1923,312568,74,William Davis
+8966,2023-06-13,87,Property_109,Commercial,58,6300 Sunset Blvd,Dallas,TX,86040,9400,1974,116872,65,James Johnson
+7884,2023-06-13,450,Property_228,Commercial,7,4206 Main St,New York,NY,74899,8954,1915,438869,33,William Smith
+2227,2023-06-13,481,Property_470,Commercial,58,7128 Sunset Blvd,New York,NY,26674,6209,1955,507147,67,Elizabeth Garcia
+9197,2023-06-13,447,Property_472,Residential,183,2092 Cedar St,San Jose,CA,52347,5345,1933,223591,25,Robert Jones
+5813,2023-06-13,329,Property_223,Land,123,7517 8th Ave,San Jose,CA,52273,4782,1902,171173,93,John Jones
+691,2023-06-13,462,Property_446,Commercial,9,6063 Cedar St,Philadelphia,PA,43689,4197,1993,621555,64,William Garcia
+9297,2023-06-13,145,Property_173,Residential,148,7117 8th Ave,San Jose,CA,19572,2376,2012,184274,30,Linda Davis
+5639,2023-06-13,15,Property_123,Residential,126,5261 2nd St,Chicago,IL,46668,4101,2009,142154,76,Linda Jones
+4433,2023-06-13,417,Property_138,Residential,194,5457 Pine St,Houston,TX,83502,7507,1921,600881,78,Elizabeth Brown
+540,2023-06-13,46,Property_315,Commercial,32,1106 River Rd,San Antonio,TX,63364,9434,1971,983828,25,Jennifer Davis
+4102,2023-06-13,133,Property_394,Land,64,4220 Elm St,New York,NY,17542,2885,1904,765896,97,Michael Davis
+1712,2023-06-13,235,Property_276,Land,55,4912 2nd St,San Diego,CA,61267,4557,1949,808932,55,Robert Miller
+4376,2023-06-13,410,Property_296,Land,193,2016 Cedar St,San Jose,CA,36277,7971,2013,796033,97,Robert Jones
+8079,2023-06-13,447,Property_267,Residential,174,647 2nd St,Houston,TX,53074,617,2001,581703,93,Jennifer Johnson
+5452,2023-06-13,330,Property_499,Commercial,198,2531 2nd St,San Diego,CA,18798,6227,1914,227826,34,Jennifer Brown
+2398,2023-06-13,415,Property_401,Commercial,41,9974 8th Ave,San Diego,CA,68150,6803,2019,994261,73,William Garcia
+5780,2023-06-13,103,Property_471,Commercial,123,1302 Pine St,Philadelphia,PA,40307,5653,1948,798197,12,Patricia Brown
+669,2023-06-13,472,Property_130,Land,137,1258 8th Ave,San Diego,CA,89719,9577,1952,508604,62,Robert Brown
+5989,2023-06-13,447,Property_142,Residential,82,1963 8th Ave,San Antonio,TX,55306,2448,1970,156933,16,Jennifer Johnson
+8106,2023-06-13,457,Property_421,Commercial,44,8850 8th Ave,Los Angeles,CA,84210,3581,1913,316350,77,Jennifer Miller
+2272,2023-06-13,267,Property_213,Land,4,4867 River Rd,San Jose,CA,16712,552,1999,708625,44,William Davis
+9476,2023-06-14,260,Property_156,Residential,145,7430 Pine St,San Antonio,TX,68793,5856,1984,540689,46,Robert Smith
+9268,2023-06-14,5,Property_474,Residential,190,2220 Pine St,Phoenix,AZ,64181,8095,2013,210942,100,Elizabeth Davis
+750,2023-06-14,67,Property_196,Residential,131,7939 River Rd,San Jose,CA,78670,9248,1942,557537,62,Linda Williams
+5631,2023-06-14,249,Property_445,Commercial,18,3043 Sunset Blvd,San Antonio,TX,94324,4508,1934,309874,36,John Jones
+3474,2023-06-14,80,Property_480,Land,180,9929 Elm St,Chicago,IL,47958,5983,1924,724062,52,William Davis
+3795,2023-06-14,492,Property_353,Land,113,3640 Cedar St,Houston,TX,39584,5574,1962,590294,100,Mary Smith
+7807,2023-06-14,198,Property_472,Commercial,111,8684 Cedar St,San Diego,CA,84740,3807,1918,742686,75,Robert Williams
+9804,2023-06-14,373,Property_153,Land,113,9273 Sunset Blvd,San Antonio,TX,45773,3160,1918,637162,25,John Williams
+616,2023-06-14,368,Property_342,Residential,48,6214 2nd St,Phoenix,AZ,79290,8352,1950,601152,18,Patricia Williams
+8475,2023-06-14,136,Property_436,Residential,156,7880 Cedar St,Phoenix,AZ,90802,8094,2015,335685,23,William Miller
+6564,2023-06-14,247,Property_402,Residential,40,8407 Elm St,San Diego,CA,70748,7211,1908,932128,87,Elizabeth Brown
+4791,2023-06-14,451,Property_441,Commercial,91,8545 2nd St,San Antonio,TX,17793,3964,1961,783753,17,Jennifer Miller
+8676,2023-06-14,220,Property_226,Commercial,77,8484 Maple St,Chicago,IL,23729,9343,1958,884746,65,John Jones
+1346,2023-06-14,296,Property_323,Land,145,8164 Maple St,Dallas,TX,25169,1643,1997,444722,50,Patricia Davis
+1996,2023-06-14,473,Property_119,Commercial,141,1385 Sunset Blvd,New York,NY,29459,8719,2005,336017,58,Michael Williams
+6648,2023-06-14,267,Property_450,Residential,138,703 Main St,Los Angeles,CA,74374,6972,2003,884510,14,Patricia Jones
+7449,2023-06-14,122,Property_310,Commercial,181,9294 Sunset Blvd,Houston,TX,41606,7560,1951,419392,6,John Miller
+2875,2023-06-14,413,Property_233,Residential,90,5297 2nd St,Houston,TX,97932,8105,1969,282591,37,Patricia Williams
+1274,2023-06-14,338,Property_345,Commercial,116,3337 Elm St,Philadelphia,PA,52704,9332,1939,434274,66,Patricia Williams
+5670,2023-06-14,255,Property_356,Land,64,4239 Pine St,Los Angeles,CA,17910,1451,2021,467265,20,Michael Williams
+9528,2023-06-14,376,Property_273,Land,23,3724 8th Ave,Los Angeles,CA,22225,7303,1976,261879,71,Linda Brown
+1044,2023-06-14,57,Property_134,Residential,155,3783 Pine St,San Jose,CA,79175,9968,1935,275106,93,Linda Brown
+3440,2023-06-14,256,Property_403,Land,58,3235 Pine St,Philadelphia,PA,95419,9759,2003,281587,24,Patricia Jones
+4551,2023-06-14,433,Property_341,Residential,6,4450 2nd St,Dallas,TX,77448,1714,1939,950512,78,John Davis
+185,2023-06-14,363,Property_281,Commercial,2,2655 Pine St,Philadelphia,PA,29956,3647,2014,164247,34,Robert Jones
+8344,2023-06-15,360,Property_357,Commercial,50,9976 Main St,Los Angeles,CA,68457,3562,1994,523391,73,Mary Johnson
+5390,2023-06-15,288,Property_158,Commercial,76,8860 Oak St,Dallas,TX,93953,757,1900,175501,51,James Brown
+7359,2023-06-15,182,Property_4,Residential,19,2008 Elm St,San Diego,CA,82419,804,1955,480502,94,Patricia Johnson
+1833,2023-06-15,158,Property_50,Residential,79,6720 Main St,Houston,TX,43992,1326,1989,413379,78,Michael Johnson
+9697,2023-06-15,263,Property_98,Commercial,198,3839 Sunset Blvd,San Jose,CA,44384,6228,2011,190625,2,James Johnson
+800,2023-06-15,219,Property_421,Residential,24,5253 2nd St,San Jose,CA,86237,6269,2000,156790,67,Patricia Smith
+4386,2023-06-15,105,Property_109,Commercial,87,9047 Cedar St,San Antonio,TX,14483,5575,1958,244395,89,John Garcia
+6902,2023-06-15,393,Property_266,Commercial,36,5105 2nd St,Philadelphia,PA,13723,6576,1915,124754,32,Elizabeth Williams
+4328,2023-06-15,159,Property_47,Commercial,3,3787 Oak St,Dallas,TX,40717,4287,1915,777876,66,Mary Brown
+3333,2023-06-15,13,Property_331,Commercial,188,549 Pine St,Los Angeles,CA,92233,7716,1938,989736,29,Jennifer Jones
+7939,2023-06-15,500,Property_296,Land,186,2497 Main St,New York,NY,10579,4623,1952,963726,53,Linda Garcia
+4880,2023-06-15,156,Property_13,Land,34,5996 Main St,New York,NY,53424,7469,2011,502699,99,William Smith
+8687,2023-06-15,71,Property_107,Residential,5,4597 Cedar St,New York,NY,36877,1972,2005,590490,82,Patricia Smith
+4838,2023-06-15,294,Property_190,Commercial,166,8158 Main St,New York,NY,39415,9845,1925,933774,71,Patricia Davis
+6522,2023-06-15,294,Property_106,Land,119,4944 8th Ave,Houston,TX,21984,2306,1933,635012,12,Mary Johnson
+2373,2023-06-15,412,Property_2,Land,183,6955 River Rd,New York,NY,13519,9254,1973,215559,18,William Garcia
+7798,2023-06-15,451,Property_442,Land,148,9943 Elm St,Philadelphia,PA,69924,9463,1947,684462,57,Michael Jones
+1785,2023-06-15,494,Property_461,Commercial,7,6851 8th Ave,San Antonio,TX,34214,3810,1983,911926,26,Robert Smith
+4770,2023-06-15,16,Property_365,Residential,129,4825 River Rd,Philadelphia,PA,71409,728,1953,632375,76,Jennifer Miller
+5739,2023-06-15,325,Property_176,Residential,5,772 Oak St,Philadelphia,PA,86494,9361,1906,288883,72,Jennifer Davis
+7649,2023-06-15,11,Property_394,Residential,155,9337 2nd St,San Jose,CA,36457,1790,1938,673606,45,Linda Davis
+5401,2023-06-15,30,Property_407,Residential,3,2330 Elm St,San Jose,CA,59429,2375,1986,814817,94,Patricia Williams
+7816,2023-06-15,282,Property_195,Land,5,2497 Pine St,New York,NY,82333,4187,2008,153166,9,Linda Brown
+4918,2023-06-15,215,Property_336,Residential,154,1703 Cedar St,New York,NY,76405,6886,2007,248061,90,Robert Brown
+5017,2023-06-15,318,Property_459,Commercial,60,7726 8th Ave,Chicago,IL,61063,1497,1939,631095,20,Michael Williams
+7493,2023-06-15,476,Property_6,Residential,34,3263 Main St,Chicago,IL,75334,7341,1901,161954,69,William Johnson
+1236,2023-06-15,213,Property_303,Land,98,4785 Cedar St,Los Angeles,CA,37742,9875,2006,410361,45,Linda Brown
+1800,2023-06-15,255,Property_413,Land,83,8066 Elm St,San Jose,CA,74731,4739,1980,471956,44,John Jones
+9072,2023-06-15,482,Property_137,Residential,159,3936 Sunset Blvd,San Jose,CA,12341,9464,2005,916721,51,James Johnson
+3757,2023-06-15,170,Property_182,Residential,64,6819 Oak St,Dallas,TX,79249,7211,1941,544211,15,John Smith
+7978,2023-06-15,152,Property_226,Land,69,1562 Elm St,San Antonio,TX,97259,5398,2016,101583,72,Patricia Johnson
+8429,2023-06-15,195,Property_323,Residential,106,4092 Pine St,San Jose,CA,53508,6703,1977,639310,28,Michael Davis
+3377,2023-06-16,158,Property_52,Land,71,4962 Oak St,San Antonio,TX,46199,6551,1933,979178,6,Jennifer Johnson
+47,2023-06-16,345,Property_376,Residential,44,9067 Main St,Chicago,IL,95463,9611,2015,210659,31,Mary Jones
+9048,2023-06-16,251,Property_495,Residential,156,180 Main St,Houston,TX,75431,1520,1930,555893,76,Linda Williams
+4284,2023-06-16,420,Property_304,Commercial,163,3695 Sunset Blvd,New York,NY,70997,6641,1906,956497,97,John Jones
+7395,2023-06-16,203,Property_153,Commercial,184,2947 Maple St,San Diego,CA,61220,7927,1994,478686,90,William Davis
+9966,2023-06-16,68,Property_418,Commercial,191,2205 2nd St,Dallas,TX,55005,8327,2010,885642,12,William Williams
+2920,2023-06-16,149,Property_235,Land,128,5369 Cedar St,New York,NY,44692,4896,2000,995875,38,John Brown
+2255,2023-06-16,326,Property_189,Land,71,9919 Cedar St,San Jose,CA,13815,2114,1978,858070,63,Mary Davis
+2958,2023-06-16,407,Property_324,Land,75,8311 Pine St,Los Angeles,CA,23605,841,1986,902329,87,William Davis
+4193,2023-06-16,399,Property_224,Residential,133,1993 Elm St,San Jose,CA,79507,9919,1995,497463,7,Michael Smith
+2266,2023-06-16,216,Property_318,Commercial,161,5979 Sunset Blvd,San Jose,CA,57774,8657,1925,749226,3,Jennifer Williams
+7155,2023-06-16,304,Property_191,Commercial,1,6459 Pine St,Phoenix,AZ,13538,8155,1940,123152,12,John Jones
+7623,2023-06-16,424,Property_359,Residential,32,6850 Cedar St,Houston,TX,23528,1269,1993,289742,96,James Jones
+8304,2023-06-16,96,Property_380,Land,123,5556 8th Ave,San Antonio,TX,47558,8861,2021,563938,84,Elizabeth Smith
+7640,2023-06-16,366,Property_360,Commercial,58,3386 Sunset Blvd,San Diego,CA,33509,3387,1976,222891,33,James Williams
+9304,2023-06-16,353,Property_445,Commercial,153,6745 2nd St,San Jose,CA,32301,716,1952,735497,47,Jennifer Miller
+5051,2023-06-16,418,Property_135,Residential,93,7082 Sunset Blvd,Phoenix,AZ,61980,6731,2018,865528,40,Robert Jones
+5908,2023-06-16,378,Property_319,Residential,27,9099 8th Ave,Houston,TX,72691,5296,1915,688186,75,Robert Smith
+633,2023-06-16,173,Property_61,Land,74,4839 Maple St,San Diego,CA,14651,9764,1991,346577,61,Linda Johnson
+6133,2023-06-16,8,Property_318,Residential,194,4662 8th Ave,New York,NY,98955,5285,1954,861119,39,James Miller
+9517,2023-06-16,172,Property_335,Residential,121,1955 Maple St,Phoenix,AZ,52489,7244,2010,434434,23,Robert Jones
+9612,2023-06-16,144,Property_59,Land,13,8974 Sunset Blvd,Chicago,IL,69521,2058,1973,603822,95,John Brown
+4580,2023-06-16,204,Property_393,Land,2,5708 Oak St,San Antonio,TX,99547,7834,1931,969123,38,John Williams
+2223,2023-06-16,441,Property_280,Residential,148,9169 2nd St,San Jose,CA,13201,2544,2022,796726,24,Mary Davis
+6771,2023-06-17,150,Property_439,Commercial,23,6324 Maple St,San Jose,CA,71089,4903,1921,791210,26,John Williams
+514,2023-06-17,316,Property_431,Commercial,160,9289 River Rd,New York,NY,97431,8615,1910,832392,76,Elizabeth Miller
+4127,2023-06-17,21,Property_343,Commercial,14,5566 Elm St,Chicago,IL,85294,6372,2008,487359,88,William Williams
+2946,2023-06-17,486,Property_444,Land,131,7732 Pine St,San Jose,CA,86969,4315,2003,742429,49,Jennifer Garcia
+1358,2023-06-17,183,Property_399,Land,3,3810 Sunset Blvd,Philadelphia,PA,73935,7765,1963,432604,59,Jennifer Smith
+6394,2023-06-17,286,Property_230,Commercial,189,5093 Main St,San Diego,CA,48765,4930,1929,812658,39,Michael Smith
+6344,2023-06-17,282,Property_269,Land,111,1725 Maple St,San Diego,CA,39443,5415,1919,396829,13,Robert Williams
+6269,2023-06-17,120,Property_119,Land,32,1014 Oak St,Chicago,IL,23318,9000,1997,772242,45,John Garcia
+1634,2023-06-17,135,Property_382,Commercial,151,5104 Oak St,Dallas,TX,24264,1358,1995,288400,94,Elizabeth Brown
+609,2023-06-17,414,Property_93,Residential,132,2978 Cedar St,San Antonio,TX,53522,4356,2010,710383,38,Robert Williams
+4234,2023-06-17,176,Property_446,Commercial,20,8019 Pine St,Philadelphia,PA,35313,1369,1946,816681,92,Patricia Davis
+8760,2023-06-17,110,Property_38,Commercial,75,5978 Maple St,Dallas,TX,42828,2763,2000,997423,78,John Davis
+8455,2023-06-17,314,Property_94,Commercial,18,4488 Main St,Chicago,IL,62071,9083,1903,818890,34,Patricia Davis
+6307,2023-06-17,414,Property_403,Land,80,4835 Pine St,Phoenix,AZ,73553,4757,1961,612415,51,James Miller
+3277,2023-06-17,101,Property_348,Land,157,9997 Oak St,Chicago,IL,25441,907,1993,754094,75,Michael Smith
+4406,2023-06-17,36,Property_331,Commercial,76,2862 Pine St,Los Angeles,CA,50439,8717,1907,639960,26,William Brown
+9760,2023-06-17,480,Property_294,Commercial,160,1898 8th Ave,Dallas,TX,17346,7356,1909,415177,55,Mary Davis
+1009,2023-06-17,307,Property_189,Residential,159,283 Sunset Blvd,Houston,TX,68146,3532,1975,523957,57,Patricia Garcia
+9509,2023-06-17,26,Property_441,Commercial,77,8546 Oak St,Philadelphia,PA,74745,9373,1920,958936,84,Jennifer Miller
+9983,2023-06-17,393,Property_203,Commercial,102,8887 Oak St,New York,NY,40111,5876,2012,423143,23,Elizabeth Jones
+7720,2023-06-17,61,Property_154,Commercial,126,9095 Cedar St,New York,NY,66349,6320,1972,395499,32,Elizabeth Brown
+4463,2023-06-17,408,Property_286,Commercial,76,8690 Sunset Blvd,Los Angeles,CA,19686,4274,2005,811909,15,Robert Miller
+7418,2023-06-17,169,Property_496,Land,24,9255 Pine St,Houston,TX,88999,7807,1916,837036,19,William Miller
+6921,2023-06-17,312,Property_41,Residential,171,2864 Oak St,Philadelphia,PA,66858,6979,2013,598829,75,James Miller
+6017,2023-06-18,429,Property_467,Land,170,932 Maple St,Houston,TX,90036,8010,1965,444937,6,Michael Garcia
+5837,2023-06-18,21,Property_111,Residential,1,9443 2nd St,Los Angeles,CA,49443,3303,1963,755089,91,Elizabeth Davis
+7105,2023-06-18,9,Property_240,Residential,52,7337 Maple St,Houston,TX,65111,1342,1997,225761,87,William Williams
+4139,2023-06-18,487,Property_219,Land,7,5790 Maple St,Chicago,IL,13066,3370,1943,183847,56,Mary Williams
+8548,2023-06-18,254,Property_13,Residential,96,5718 Pine St,New York,NY,43698,5316,1958,474552,23,Linda Miller
+9740,2023-06-18,256,Property_191,Land,98,3824 Maple St,Chicago,IL,83632,7390,2014,123948,86,Patricia Davis
+4118,2023-06-18,402,Property_326,Residential,73,2138 Sunset Blvd,Phoenix,AZ,87437,7192,1926,248049,91,Jennifer Williams
+3560,2023-06-18,46,Property_197,Commercial,106,779 Main St,San Jose,CA,42289,8337,1906,918358,79,Elizabeth Smith
+9751,2023-06-18,127,Property_150,Residential,77,2846 Cedar St,San Antonio,TX,77231,6025,1961,658792,12,John Miller
+9587,2023-06-18,366,Property_30,Commercial,34,616 Pine St,Philadelphia,PA,32908,2618,1982,556103,18,Robert Miller
+6842,2023-06-18,112,Property_53,Land,197,1123 Sunset Blvd,Phoenix,AZ,39627,8496,1977,293183,95,Robert Smith
+6843,2023-06-18,230,Property_460,Land,156,6182 Main St,Dallas,TX,57883,4302,1995,660351,79,James Miller
+8306,2023-06-18,189,Property_184,Commercial,73,2364 River Rd,San Diego,CA,21467,7526,1943,784085,35,Mary Davis
+1640,2023-06-18,41,Property_194,Residential,98,4837 Maple St,San Diego,CA,15504,8241,1993,742686,59,James Williams
+9775,2023-06-18,486,Property_286,Residential,184,7877 Pine St,New York,NY,13924,9239,1951,469521,69,Jennifer Smith
+3947,2023-06-18,54,Property_394,Commercial,145,6151 Maple St,Los Angeles,CA,80590,3514,1947,397490,62,Jennifer Johnson
+7285,2023-06-18,273,Property_283,Commercial,119,532 Pine St,Philadelphia,PA,66282,4151,1946,810154,38,Jennifer Smith
+297,2023-06-18,111,Property_347,Land,72,2132 Pine St,Houston,TX,35710,6525,1934,667661,49,James Miller
+4198,2023-06-18,432,Property_69,Land,96,5271 Oak St,San Jose,CA,69080,3620,1930,185647,100,Jennifer Garcia
+4313,2023-06-18,380,Property_268,Land,164,2676 Sunset Blvd,New York,NY,56895,8993,1946,583837,63,William Miller
+2583,2023-06-18,181,Property_205,Residential,171,719 2nd St,Dallas,TX,72338,1386,2000,934799,62,John Smith
+2900,2023-06-18,15,Property_351,Commercial,166,8509 8th Ave,Phoenix,AZ,95932,6202,2012,993585,12,William Brown
+7837,2023-06-18,162,Property_82,Commercial,188,2349 2nd St,Houston,TX,32411,6342,2010,435700,8,James Johnson
+8111,2023-06-18,346,Property_32,Commercial,142,8587 Maple St,Philadelphia,PA,10764,5330,1956,355632,2,William Williams
+8501,2023-06-18,278,Property_444,Commercial,56,4379 Cedar St,Houston,TX,69345,1520,1974,537703,2,Mary Miller
+2085,2023-06-18,72,Property_180,Land,13,3413 Pine St,Philadelphia,PA,72938,8475,1940,554216,65,Linda Jones
+7403,2023-06-19,276,Property_346,Residential,79,761 River Rd,San Antonio,TX,31100,5506,1935,915404,3,Elizabeth Brown
+6308,2023-06-19,278,Property_485,Land,142,1997 Elm St,San Diego,CA,46752,2464,1915,980867,81,James Johnson
+160,2023-06-19,239,Property_477,Commercial,8,7523 River Rd,Los Angeles,CA,30329,6609,1989,945569,77,John Smith
+845,2023-06-19,497,Property_421,Commercial,103,7279 Pine St,Dallas,TX,93184,8936,2000,659959,32,Patricia Davis
+9785,2023-06-19,135,Property_91,Land,68,238 Oak St,San Antonio,TX,63088,868,1906,476180,97,John Davis
+3422,2023-06-19,303,Property_402,Residential,127,6042 Oak St,Phoenix,AZ,28026,9872,1948,272986,90,Patricia Williams
+4003,2023-06-19,429,Property_355,Land,29,8372 Elm St,San Antonio,TX,29096,6151,1905,941251,5,Jennifer Williams
+6872,2023-06-19,493,Property_409,Residential,67,6307 Maple St,New York,NY,65067,5318,1997,361363,16,Robert Williams
+9021,2023-06-19,252,Property_440,Residential,16,210 River Rd,Los Angeles,CA,87434,6058,1908,883406,22,John Johnson
+4739,2023-06-19,120,Property_127,Commercial,186,5715 Pine St,Chicago,IL,61819,3018,1910,806425,66,Mary Brown
+610,2023-06-19,227,Property_495,Residential,4,1113 Pine St,San Diego,CA,17536,3404,1978,462918,4,Robert Garcia
+4404,2023-06-19,10,Property_492,Land,39,6084 Cedar St,Dallas,TX,61038,5057,2018,958395,72,Michael Williams
+7387,2023-06-19,395,Property_29,Land,14,9466 Sunset Blvd,San Diego,CA,76322,9233,2008,165542,88,Elizabeth Garcia
+4879,2023-06-19,44,Property_346,Commercial,166,2120 Sunset Blvd,San Diego,CA,54837,8743,1935,187097,76,Linda Miller
+2209,2023-06-19,318,Property_285,Residential,100,5581 River Rd,New York,NY,46579,2244,2017,972217,78,Michael Garcia
+1597,2023-06-19,478,Property_302,Residential,6,7640 River Rd,Dallas,TX,64444,2602,1944,520612,1,Elizabeth Williams
+374,2023-06-19,73,Property_31,Land,159,894 Pine St,Chicago,IL,58377,4213,1921,763033,62,Michael Garcia
+8303,2023-06-19,276,Property_21,Land,50,2784 Elm St,Philadelphia,PA,74577,7748,1905,468220,1,William Williams
+7822,2023-06-19,398,Property_154,Land,80,5333 Sunset Blvd,Phoenix,AZ,92417,8616,1949,342530,78,John Davis
+32,2023-06-19,483,Property_164,Commercial,57,7077 Sunset Blvd,San Diego,CA,44664,1461,1942,795563,48,James Williams
+1646,2023-06-19,110,Property_163,Commercial,160,2201 Pine St,San Jose,CA,75152,746,1958,726459,67,Patricia Garcia
+8173,2023-06-19,273,Property_427,Land,125,1602 Oak St,San Antonio,TX,50702,8288,1904,476033,98,Linda Williams
+407,2023-06-19,114,Property_467,Land,32,8728 Pine St,New York,NY,99015,3174,1965,546669,19,Michael Brown
+1495,2023-06-19,313,Property_138,Land,124,5066 Pine St,Dallas,TX,60770,7846,1997,222258,46,Elizabeth Davis
+3826,2023-06-19,179,Property_390,Land,142,6751 Cedar St,Chicago,IL,41181,1224,1932,377228,96,Linda Davis
+9393,2023-06-19,264,Property_85,Land,63,6134 8th Ave,Houston,TX,90760,5295,1947,687809,87,Linda Miller
+6196,2023-06-20,299,Property_75,Commercial,190,852 Elm St,Philadelphia,PA,26867,9364,2000,883095,26,John Brown
+3810,2023-06-20,11,Property_320,Land,2,9355 Sunset Blvd,Dallas,TX,50366,5095,1938,767838,63,Elizabeth Brown
+7745,2023-06-20,495,Property_288,Commercial,153,8943 Oak St,Houston,TX,28548,977,1986,368318,43,Elizabeth Williams
+3551,2023-06-20,177,Property_12,Commercial,104,9194 Cedar St,San Jose,CA,23225,4877,2010,896186,89,Robert Williams
+5914,2023-06-20,467,Property_208,Commercial,114,3692 2nd St,San Jose,CA,27506,8465,1911,426070,14,Linda Williams
+7357,2023-06-20,122,Property_289,Residential,188,9023 8th Ave,Los Angeles,CA,52362,1904,1919,155486,67,James Davis
+9188,2023-06-20,260,Property_424,Land,163,3104 Pine St,Los Angeles,CA,59296,5666,1950,346096,12,Elizabeth Miller
+1482,2023-06-20,444,Property_25,Commercial,6,7230 8th Ave,Philadelphia,PA,88448,3799,1920,779375,91,Michael Jones
+1987,2023-06-20,319,Property_410,Land,94,7744 Elm St,Phoenix,AZ,21254,4541,1919,850602,40,William Garcia
+4858,2023-06-20,459,Property_23,Land,171,1874 Cedar St,Los Angeles,CA,35605,5642,1971,136308,24,William Smith
+2654,2023-06-20,83,Property_118,Commercial,71,4491 Sunset Blvd,San Antonio,TX,89147,2761,1995,872990,60,Patricia Miller
+1142,2023-06-20,345,Property_482,Commercial,95,1847 Pine St,New York,NY,88353,5911,1954,828328,17,Patricia Smith
+5726,2023-06-20,330,Property_421,Land,43,9657 Sunset Blvd,Chicago,IL,59755,2055,1928,406014,39,Michael Johnson
+7494,2023-06-20,210,Property_32,Residential,156,3299 Cedar St,Phoenix,AZ,66229,7717,1916,704734,5,Patricia Miller
+5474,2023-06-20,5,Property_249,Land,151,7710 Oak St,Houston,TX,70999,7817,1924,295878,53,William Miller
+5491,2023-06-20,174,Property_140,Commercial,196,7520 Oak St,New York,NY,98398,7292,1943,753624,31,Jennifer Williams
+149,2023-06-20,119,Property_383,Commercial,84,3756 Cedar St,Dallas,TX,59098,9011,1924,889817,6,Michael Miller
+6111,2023-06-20,35,Property_156,Commercial,130,2414 2nd St,San Diego,CA,33634,2551,1907,770056,44,Elizabeth Brown
+6674,2023-06-20,411,Property_390,Commercial,157,4549 2nd St,New York,NY,10040,4609,1904,924851,29,Mary Brown
+4001,2023-06-20,358,Property_483,Land,82,5120 2nd St,Dallas,TX,29802,6380,2014,880513,26,Michael Smith
+4626,2023-06-20,369,Property_323,Commercial,65,9256 2nd St,Chicago,IL,66614,4985,2001,409423,17,Jennifer Davis
+5207,2023-06-20,410,Property_188,Residential,154,8038 2nd St,Philadelphia,PA,29285,7225,1971,233739,96,Michael Davis
+6778,2023-06-20,243,Property_338,Residential,47,9606 8th Ave,Phoenix,AZ,85067,5914,1996,790937,11,Mary Williams
+6695,2023-06-20,310,Property_37,Land,14,6169 2nd St,Philadelphia,PA,62973,1595,2003,405565,66,Linda Miller
+8710,2023-06-20,285,Property_480,Land,49,7209 2nd St,San Diego,CA,92482,8730,1911,662207,47,Michael Davis
+5167,2023-06-20,21,Property_279,Land,23,5801 River Rd,Dallas,TX,71674,6919,1923,798199,7,Patricia Johnson
+8158,2023-06-20,383,Property_371,Land,148,3402 Main St,Philadelphia,PA,96273,522,1908,454939,67,Jennifer Miller
+8250,2023-06-20,158,Property_80,Land,8,457 River Rd,Philadelphia,PA,37318,1901,1953,214640,92,Jennifer Johnson
+331,2023-06-21,169,Property_74,Land,14,4889 Oak St,San Diego,CA,51930,5002,2004,293572,10,Mary Williams
+2298,2023-06-21,165,Property_422,Residential,69,7683 Sunset Blvd,San Diego,CA,60389,4465,1955,684266,45,Mary Smith
+9346,2023-06-21,424,Property_116,Land,61,2992 Pine St,New York,NY,56042,5170,2016,952768,39,Mary Miller
+8537,2023-06-21,456,Property_227,Commercial,148,2610 Main St,Los Angeles,CA,55246,7381,1998,384051,54,Linda Smith
+217,2023-06-21,163,Property_217,Commercial,142,3701 Maple St,Philadelphia,PA,40927,3259,1955,503591,98,James Brown
+6124,2023-06-21,379,Property_427,Commercial,166,9425 Sunset Blvd,San Diego,CA,12413,4644,1997,955590,1,William Smith
+3176,2023-06-21,144,Property_259,Commercial,158,6803 Main St,San Diego,CA,14920,9422,1972,310742,97,Robert Williams
+6556,2023-06-21,368,Property_403,Residential,103,8025 2nd St,San Diego,CA,96599,9625,1953,832609,61,Jennifer Brown
+1421,2023-06-21,80,Property_287,Residential,40,2421 Pine St,Los Angeles,CA,30117,8290,1961,164345,64,Jennifer Williams
+7222,2023-06-21,40,Property_13,Land,1,2997 2nd St,San Jose,CA,87797,1562,1921,846019,57,Mary Smith
+2194,2023-06-21,181,Property_32,Residential,98,2650 8th Ave,Los Angeles,CA,90402,6937,1918,337438,84,William Brown
+2613,2023-06-21,286,Property_302,Land,70,5754 Sunset Blvd,San Antonio,TX,64962,8856,1905,457318,67,Elizabeth Miller
+121,2023-06-21,210,Property_414,Commercial,160,4427 Elm St,San Diego,CA,97326,751,1985,993737,43,Linda Davis
+1007,2023-06-21,387,Property_468,Residential,58,6803 Maple St,San Jose,CA,78811,3812,1953,864400,48,Jennifer Williams
+6107,2023-06-21,400,Property_377,Commercial,153,9425 Cedar St,San Antonio,TX,20701,3172,2006,185025,51,Patricia Miller
+7541,2023-06-21,189,Property_206,Residential,100,1230 Cedar St,San Jose,CA,10247,598,1900,592590,73,John Davis
+189,2023-06-21,90,Property_127,Commercial,94,9930 Main St,San Diego,CA,58448,8998,1972,913483,27,Michael Brown
+8235,2023-06-21,475,Property_455,Commercial,149,669 Elm St,Chicago,IL,24559,1263,1925,987017,19,John Johnson
+3365,2023-06-21,67,Property_187,Commercial,93,8876 River Rd,Chicago,IL,93996,3220,1963,446182,32,Linda Johnson
+8180,2023-06-21,259,Property_187,Land,89,6984 Sunset Blvd,San Antonio,TX,13813,9098,1917,268446,88,Michael Williams
+9815,2023-06-21,302,Property_327,Residential,152,4066 Maple St,Dallas,TX,37952,2076,1949,799862,68,Jennifer Smith
+2758,2023-06-22,225,Property_341,Commercial,154,7256 2nd St,Houston,TX,95903,6435,2013,875608,38,Michael Jones
+8835,2023-06-22,112,Property_34,Land,163,4870 Cedar St,Phoenix,AZ,16791,7131,1948,590856,75,James Williams
+5999,2023-06-22,328,Property_381,Commercial,93,3291 Elm St,Houston,TX,63633,7958,1932,500829,67,Elizabeth Davis
+640,2023-06-22,449,Property_132,Land,170,4659 Main St,Chicago,IL,43726,7682,1907,160238,36,Patricia Miller
+1882,2023-06-22,196,Property_349,Land,83,2152 Cedar St,Chicago,IL,27704,7194,1981,311812,74,James Williams
+6503,2023-06-22,422,Property_307,Residential,120,7732 Cedar St,New York,NY,35480,1888,1924,866996,51,James Jones
+1112,2023-06-22,33,Property_399,Land,73,5834 River Rd,Los Angeles,CA,72015,2983,1995,115511,92,Patricia Jones
+758,2023-06-22,325,Property_333,Land,185,8570 Oak St,Houston,TX,59274,9205,1946,769137,12,John Brown
+3606,2023-06-22,141,Property_435,Commercial,30,6673 Pine St,Phoenix,AZ,45329,4375,2009,404833,15,Elizabeth Garcia
+4675,2023-06-22,482,Property_254,Commercial,53,2398 Pine St,New York,NY,29718,3235,2002,347279,95,Jennifer Jones
+5805,2023-06-22,37,Property_333,Residential,122,1696 Maple St,Houston,TX,93532,8630,2022,535324,81,James Garcia
+2412,2023-06-22,122,Property_358,Land,166,9840 Pine St,Phoenix,AZ,62336,9090,2017,811741,21,Linda Brown
+2491,2023-06-22,379,Property_59,Residential,193,6148 8th Ave,Houston,TX,50074,1754,2005,488918,46,Michael Smith
+3762,2023-06-22,490,Property_447,Residential,131,7162 Elm St,Philadelphia,PA,21740,4821,2014,784420,62,Patricia Davis
+8405,2023-06-22,353,Property_262,Commercial,68,2929 Main St,San Antonio,TX,39616,4665,1953,765604,62,Patricia Garcia
+3125,2023-06-22,166,Property_428,Land,158,7212 Sunset Blvd,San Antonio,TX,13719,6716,2016,904375,91,Robert Garcia
+2195,2023-06-22,19,Property_457,Commercial,60,2010 8th Ave,New York,NY,79193,8709,1965,271835,30,Jennifer Johnson
+1363,2023-06-22,86,Property_245,Commercial,13,8357 8th Ave,Houston,TX,36539,6003,2017,273414,89,Jennifer Miller
+660,2023-06-22,364,Property_376,Residential,138,1419 Sunset Blvd,Los Angeles,CA,80532,2966,1928,293147,100,William Davis
+383,2023-06-22,349,Property_255,Residential,76,4633 Sunset Blvd,Phoenix,AZ,91189,5119,1914,545247,37,John Johnson
+979,2023-06-22,448,Property_492,Land,117,2954 Pine St,Chicago,IL,34955,8924,1997,110595,61,John Smith
+4015,2023-06-22,444,Property_17,Commercial,90,740 Cedar St,San Jose,CA,18204,5100,1979,548588,56,Robert Brown
+6279,2023-06-22,107,Property_255,Land,97,8504 8th Ave,New York,NY,18949,3565,1945,537394,75,John Smith
+7767,2023-06-22,62,Property_87,Land,78,8449 Maple St,Houston,TX,64332,7944,1954,169800,5,Elizabeth Davis
+658,2023-06-22,2,Property_400,Commercial,53,6449 Main St,San Antonio,TX,22353,3499,1955,350286,95,John Garcia
+5913,2023-06-22,418,Property_186,Residential,189,7415 Elm St,San Antonio,TX,87725,9199,2004,291441,7,William Garcia
+5492,2023-06-22,436,Property_440,Commercial,34,2379 Elm St,New York,NY,23877,888,1924,102412,50,James Davis
+2540,2023-06-22,260,Property_410,Land,91,7510 River Rd,Houston,TX,39067,7209,1921,528555,89,Elizabeth Jones
+5566,2023-06-22,34,Property_54,Land,53,7322 Pine St,San Diego,CA,16596,2557,1904,509126,97,James Miller
+4041,2023-06-22,70,Property_358,Commercial,68,1873 Pine St,San Diego,CA,75635,2317,1999,730488,71,James Garcia
+4774,2023-06-22,304,Property_92,Commercial,34,5898 River Rd,Chicago,IL,88245,6761,1932,169484,25,John Garcia
+3489,2023-06-22,451,Property_322,Residential,26,8052 8th Ave,Philadelphia,PA,30421,8854,1984,853816,44,James Davis
+2615,2023-06-23,207,Property_246,Commercial,76,2442 8th Ave,San Diego,CA,24822,3767,2017,886107,93,Jennifer Jones
+4436,2023-06-23,159,Property_89,Commercial,101,9781 Sunset Blvd,San Diego,CA,98165,8293,1993,729103,58,Jennifer Miller
+360,2023-06-23,475,Property_338,Residential,170,7506 Elm St,San Antonio,TX,30137,1952,1950,767365,19,Michael Johnson
+5144,2023-06-23,36,Property_165,Land,73,3492 Oak St,San Diego,CA,86935,4051,1976,252091,94,Michael Jones
+7402,2023-06-23,192,Property_362,Land,7,6345 Main St,San Jose,CA,53952,9455,1907,660608,14,John Miller
+2826,2023-06-23,77,Property_6,Land,144,2446 Oak St,Dallas,TX,23556,3477,1936,511848,6,John Davis
+1836,2023-06-23,122,Property_310,Residential,164,2011 8th Ave,San Jose,CA,91247,9240,1925,613146,19,Mary Miller
+8474,2023-06-23,26,Property_395,Residential,184,8725 8th Ave,Houston,TX,74776,7690,1980,786731,48,Patricia Davis
+3187,2023-06-23,243,Property_435,Commercial,133,8426 Oak St,Phoenix,AZ,13834,5285,1964,118699,97,John Johnson
+6957,2023-06-23,186,Property_262,Commercial,56,2783 Oak St,San Antonio,TX,71213,9634,2014,705276,95,James Garcia
+1768,2023-06-23,207,Property_438,Land,148,5457 Sunset Blvd,New York,NY,54713,3159,1968,437487,16,Elizabeth Smith
+7944,2023-06-23,179,Property_494,Commercial,17,9512 Cedar St,Phoenix,AZ,39074,3937,1992,600304,68,Robert Garcia
+607,2023-06-23,493,Property_238,Residential,86,1628 Maple St,Philadelphia,PA,34960,5036,1954,721327,8,Elizabeth Williams
+8412,2023-06-23,315,Property_481,Residential,164,1847 Pine St,San Antonio,TX,28780,3650,1981,362266,95,John Jones
+3292,2023-06-23,476,Property_161,Commercial,48,7520 Sunset Blvd,Chicago,IL,60709,9623,2021,280697,24,Patricia Smith
+6515,2023-06-23,78,Property_434,Land,128,179 Sunset Blvd,San Jose,CA,23758,6549,1914,148292,41,Mary Brown
+3904,2023-06-23,26,Property_208,Land,192,1542 2nd St,Los Angeles,CA,90661,5836,1979,165585,11,Michael Miller
+5395,2023-06-24,301,Property_346,Land,120,3263 8th Ave,San Jose,CA,84776,1477,1918,906686,24,William Smith
+4211,2023-06-24,120,Property_130,Residential,96,3634 Maple St,San Diego,CA,13728,1990,1940,116919,48,Elizabeth Jones
+3896,2023-06-24,166,Property_466,Commercial,52,4685 Maple St,Phoenix,AZ,14712,4513,1973,574116,23,Robert Miller
+6571,2023-06-24,72,Property_118,Land,189,3956 Cedar St,San Diego,CA,97937,8682,2017,656991,12,Linda Davis
+1709,2023-06-24,92,Property_107,Residential,44,3635 Pine St,Chicago,IL,59004,7448,2012,639217,58,Linda Davis
+3718,2023-06-24,180,Property_446,Commercial,101,7834 Main St,San Jose,CA,93899,3943,2002,512861,54,Michael Williams
+2230,2023-06-24,341,Property_51,Land,56,3958 Maple St,New York,NY,78959,1817,1905,210154,41,Mary Miller
+8518,2023-06-24,458,Property_173,Residential,1,3193 Oak St,Houston,TX,36996,7812,1934,780294,56,Mary Jones
+3524,2023-06-24,373,Property_287,Land,8,5068 River Rd,New York,NY,12210,1516,1932,849360,93,Elizabeth Brown
+3828,2023-06-24,132,Property_261,Residential,155,1183 2nd St,Philadelphia,PA,10367,8018,1985,845635,75,Jennifer Brown
+4591,2023-06-24,356,Property_256,Commercial,37,1818 Main St,New York,NY,44576,5567,1928,208454,1,Michael Brown
+1231,2023-06-24,73,Property_151,Residential,108,5354 Elm St,New York,NY,89427,7367,1989,133540,47,Mary Miller
+8798,2023-06-24,246,Property_76,Residential,100,2892 Sunset Blvd,New York,NY,37175,3714,1950,407958,19,Linda Williams
+5615,2023-06-24,250,Property_146,Residential,37,6580 8th Ave,San Diego,CA,39206,6799,1982,510268,24,Jennifer Smith
+3297,2023-06-24,337,Property_46,Residential,159,4439 Oak St,San Diego,CA,36613,5282,2001,582029,12,Mary Davis
+8936,2023-06-24,484,Property_196,Commercial,25,4205 Cedar St,San Jose,CA,62625,9276,1906,459954,96,Patricia Jones
+6164,2023-06-24,232,Property_297,Land,109,432 River Rd,Los Angeles,CA,22897,3592,1903,150995,68,Mary Smith
+9167,2023-06-24,274,Property_99,Residential,89,7807 Pine St,Chicago,IL,78739,4770,1941,676634,49,Linda Jones
+1733,2023-06-24,327,Property_455,Residential,62,8629 Maple St,San Antonio,TX,35372,3593,1940,754973,16,John Jones
+5540,2023-06-24,231,Property_76,Residential,119,1505 Cedar St,Dallas,TX,42432,1709,1922,232360,54,William Brown
+2054,2023-06-24,326,Property_439,Residential,1,3670 River Rd,San Jose,CA,70925,6821,1995,299509,26,Elizabeth Smith
+1994,2023-06-24,196,Property_146,Land,106,9662 Sunset Blvd,San Jose,CA,76887,2526,1980,209931,90,Michael Brown
+4596,2023-06-24,137,Property_287,Commercial,81,6121 2nd St,San Antonio,TX,41935,2981,2013,271099,76,John Jones
+3820,2023-06-24,306,Property_196,Commercial,141,4327 River Rd,San Jose,CA,74960,8324,1928,999620,46,Mary Davis
+9809,2023-06-24,323,Property_358,Land,87,493 Cedar St,San Diego,CA,58451,7921,1992,210955,81,Elizabeth Davis
+6233,2023-06-24,114,Property_495,Commercial,136,2577 Main St,San Diego,CA,80579,7908,1975,993186,19,William Johnson
+36,2023-06-24,118,Property_246,Residential,64,7344 Cedar St,Chicago,IL,16354,1819,1984,410009,17,Jennifer Smith
+7211,2023-06-24,106,Property_415,Land,157,6832 River Rd,Houston,TX,15956,9177,1945,415700,93,Robert Davis
+5296,2023-06-24,255,Property_479,Land,139,4671 Pine St,Houston,TX,94110,1150,1976,608691,39,William Jones
+7696,2023-06-25,247,Property_187,Land,143,7619 Main St,Chicago,IL,79857,7307,1919,864298,11,Robert Williams
+307,2023-06-25,146,Property_411,Land,178,1304 2nd St,San Diego,CA,10711,4703,1938,972636,28,William Johnson
+5046,2023-06-25,284,Property_285,Land,35,4150 Cedar St,Houston,TX,81292,6429,2012,710127,20,Robert Johnson
+4385,2023-06-25,56,Property_89,Residential,163,2209 2nd St,Los Angeles,CA,70092,5228,2008,594485,23,John Jones
+8917,2023-06-25,4,Property_460,Residential,182,3190 Cedar St,San Antonio,TX,43818,3096,1957,248209,93,Linda Smith
+6526,2023-06-25,92,Property_120,Commercial,186,3996 Oak St,San Jose,CA,83143,8625,1912,847793,81,Jennifer Smith
+9380,2023-06-25,330,Property_247,Commercial,165,5541 Sunset Blvd,Philadelphia,PA,61330,7016,2000,631709,45,Patricia Miller
+5303,2023-06-25,217,Property_53,Commercial,176,8416 Elm St,Los Angeles,CA,11901,4715,1934,197417,37,Robert Williams
+4818,2023-06-25,453,Property_495,Land,117,9602 8th Ave,San Diego,CA,61104,9192,1964,475782,16,Michael Jones
+1611,2023-06-25,333,Property_477,Residential,154,3027 Cedar St,New York,NY,48879,7199,2015,396721,66,Robert Johnson
+2992,2023-06-25,43,Property_331,Commercial,188,9173 Maple St,Philadelphia,PA,23460,6725,1975,602720,53,Linda Williams
+8339,2023-06-25,132,Property_434,Commercial,92,6235 River Rd,Philadelphia,PA,73986,6008,2005,961755,86,Michael Miller
+9553,2023-06-25,87,Property_175,Commercial,157,6838 2nd St,Houston,TX,35927,1898,1965,685132,25,James Garcia
+1465,2023-06-25,172,Property_380,Commercial,125,656 Elm St,Phoenix,AZ,60822,4421,1954,673794,32,Jennifer Garcia
+4803,2023-06-25,238,Property_158,Residential,79,3438 Main St,Philadelphia,PA,83303,720,1977,227505,80,Elizabeth Brown
+8073,2023-06-25,352,Property_102,Commercial,93,9730 Main St,Philadelphia,PA,14762,3525,1997,730795,24,Jennifer Williams
+8134,2023-06-25,228,Property_314,Land,1,6415 Sunset Blvd,Los Angeles,CA,75032,1680,1926,527189,1,William Johnson
+1607,2023-06-25,194,Property_177,Residential,137,4111 River Rd,Philadelphia,PA,24980,1286,1984,885854,2,Elizabeth Johnson
+2087,2023-06-25,324,Property_467,Residential,35,5571 Elm St,New York,NY,97649,4546,2020,784292,72,Michael Garcia
+3053,2023-06-25,331,Property_315,Land,169,5311 Maple St,San Jose,CA,70797,1167,2022,487742,8,Robert Brown
+3395,2023-06-25,479,Property_182,Commercial,104,3021 Oak St,San Diego,CA,62924,3441,1922,449871,64,Linda Williams
+7824,2023-06-25,286,Property_158,Land,73,1438 Elm St,San Jose,CA,17133,5291,1985,718233,80,Patricia Smith
+5773,2023-06-25,416,Property_141,Residential,183,7046 Maple St,Phoenix,AZ,11216,4756,1916,795959,14,James Miller
+372,2023-06-25,280,Property_423,Land,51,6216 Cedar St,Chicago,IL,21111,5725,1996,845807,74,John Jones
+6900,2023-06-25,429,Property_110,Land,167,8946 8th Ave,New York,NY,62616,9123,1977,823685,58,Jennifer Jones
+9083,2023-06-25,418,Property_408,Commercial,66,3539 Elm St,San Diego,CA,60773,646,1944,871752,40,James Williams
+9928,2023-06-25,39,Property_363,Commercial,130,4354 Pine St,Chicago,IL,17956,1966,1994,716679,39,Mary Williams
+7721,2023-06-25,250,Property_220,Commercial,59,2920 Cedar St,San Diego,CA,71702,5616,1989,619525,79,Michael Smith
+1206,2023-06-26,245,Property_339,Residential,128,6754 Maple St,San Jose,CA,27676,4956,1937,882868,29,Patricia Jones
+7424,2023-06-26,275,Property_298,Commercial,186,2159 River Rd,Chicago,IL,19498,9019,1974,124981,57,Mary Johnson
+6326,2023-06-26,191,Property_91,Land,180,8406 8th Ave,Los Angeles,CA,16147,4810,2006,844844,78,John Brown
+568,2023-06-26,94,Property_390,Residential,172,6306 Main St,Philadelphia,PA,75400,2450,1951,246238,3,John Garcia
+6966,2023-06-26,244,Property_73,Commercial,63,5457 Main St,Houston,TX,61308,1129,1934,298848,74,Patricia Brown
+7913,2023-06-26,265,Property_347,Land,18,866 Pine St,Phoenix,AZ,42140,3506,2008,236106,37,Jennifer Davis
+5243,2023-06-26,104,Property_119,Land,82,9995 2nd St,San Antonio,TX,25424,8738,1976,942656,99,Michael Brown
+1518,2023-06-26,410,Property_23,Commercial,162,528 Maple St,Philadelphia,PA,23947,5562,1913,307394,35,Jennifer Smith
+544,2023-06-26,336,Property_165,Land,91,4917 Sunset Blvd,Los Angeles,CA,43123,6359,2017,905750,37,Mary Garcia
+6264,2023-06-26,301,Property_414,Commercial,32,5253 Oak St,Phoenix,AZ,30918,4914,2022,431348,85,Elizabeth Williams
+728,2023-06-26,59,Property_4,Commercial,111,9319 Elm St,New York,NY,75162,7626,1912,949349,78,Elizabeth Miller
+1567,2023-06-26,1,Property_123,Residential,122,7217 Maple St,Chicago,IL,62693,9410,1918,372325,52,Robert Smith
+8320,2023-06-26,53,Property_60,Residential,20,9890 Elm St,San Jose,CA,14528,5573,1968,245611,88,Michael Davis
+737,2023-06-26,90,Property_100,Residential,7,6107 Sunset Blvd,San Antonio,TX,32876,8466,1998,641223,22,James Davis
+7225,2023-06-26,289,Property_408,Commercial,160,2813 8th Ave,Houston,TX,85103,2985,2007,330887,2,Elizabeth Brown
+1918,2023-06-26,31,Property_21,Residential,6,718 Main St,San Jose,CA,90153,9026,1931,351065,17,Linda Smith
+1196,2023-06-26,215,Property_420,Residential,94,9101 Main St,New York,NY,58617,8585,1920,200165,72,James Miller
+5116,2023-06-26,369,Property_496,Commercial,117,7286 Sunset Blvd,San Jose,CA,98205,1021,1928,334121,18,John Williams
+8961,2023-06-26,414,Property_252,Commercial,102,3050 Pine St,San Antonio,TX,77261,7135,1990,605310,28,James Davis
+9348,2023-06-26,213,Property_131,Residential,177,2999 Sunset Blvd,Houston,TX,55080,2538,1976,809014,47,James Williams
+9190,2023-06-26,466,Property_209,Residential,45,2322 Cedar St,Chicago,IL,59860,6454,1948,256007,58,Mary Brown
+9876,2023-06-26,92,Property_146,Residential,8,5841 Cedar St,Chicago,IL,13145,746,1957,233589,62,James Miller
+9159,2023-06-26,204,Property_484,Residential,108,6403 River Rd,San Antonio,TX,23007,1057,1906,327277,63,Mary Miller
+4529,2023-06-26,181,Property_382,Land,186,2987 Main St,Los Angeles,CA,13801,7638,2017,796893,76,Michael Williams
+2902,2023-06-26,461,Property_431,Residential,127,1897 Pine St,San Jose,CA,16308,6751,1935,839651,56,Mary Brown
+3708,2023-06-26,141,Property_254,Land,197,7369 8th Ave,Chicago,IL,48755,9744,1930,923003,47,Linda Garcia
+4316,2023-06-26,236,Property_123,Commercial,46,5937 Elm St,Chicago,IL,83120,3117,1915,952280,14,James Johnson
+3237,2023-06-26,39,Property_463,Commercial,161,3617 Elm St,San Diego,CA,94622,4245,1995,533810,10,Patricia Miller
+8962,2023-06-26,447,Property_84,Commercial,54,2988 Main St,Dallas,TX,88733,9144,1908,128419,93,Robert Johnson
+3296,2023-06-26,292,Property_81,Residential,168,5274 Cedar St,Los Angeles,CA,71771,4652,2004,959886,69,William Smith
+3658,2023-06-27,379,Property_26,Residential,43,2935 8th Ave,Los Angeles,CA,47692,1894,1929,204297,62,Patricia Garcia
+4802,2023-06-27,465,Property_198,Commercial,72,9230 2nd St,San Antonio,TX,21140,5876,2011,669886,35,Elizabeth Johnson
+1853,2023-06-27,411,Property_429,Commercial,184,7454 Cedar St,San Jose,CA,30062,8307,1968,664649,96,Patricia Davis
+9125,2023-06-27,150,Property_396,Land,179,8218 2nd St,Houston,TX,79635,3136,1996,893764,47,Michael Williams
+1249,2023-06-27,427,Property_315,Commercial,169,2498 Elm St,Chicago,IL,15327,5981,1916,120812,47,James Brown
+4760,2023-06-27,132,Property_224,Commercial,169,8840 Main St,Houston,TX,80668,3397,1902,628441,32,John Johnson
+8612,2023-06-27,37,Property_219,Land,97,9038 2nd St,San Jose,CA,64125,1568,2004,493435,62,William Smith
+1573,2023-06-27,401,Property_21,Land,68,829 Oak St,San Jose,CA,26149,1082,1939,142543,36,William Miller
+506,2023-06-27,281,Property_69,Land,91,4012 2nd St,Philadelphia,PA,89273,5532,1923,878164,11,James Jones
+2036,2023-06-27,271,Property_329,Land,196,4216 8th Ave,San Diego,CA,97310,6409,2008,638999,33,Elizabeth Johnson
+6562,2023-06-27,172,Property_93,Residential,12,1674 Main St,San Diego,CA,33000,5598,2000,570404,55,James Williams
+2862,2023-06-27,259,Property_268,Residential,71,4551 8th Ave,San Jose,CA,97613,8274,2020,310566,38,William Miller
+8539,2023-06-27,169,Property_38,Commercial,200,3447 Sunset Blvd,San Diego,CA,79526,1416,1964,942108,27,James Garcia
+6033,2023-06-27,277,Property_233,Land,24,9622 Cedar St,New York,NY,98274,3703,1988,812580,59,Michael Williams
+7287,2023-06-27,360,Property_346,Residential,26,3029 8th Ave,Dallas,TX,20730,3679,1945,151600,19,Patricia Jones
+2887,2023-06-27,440,Property_218,Land,116,1504 Main St,San Jose,CA,23856,6143,1972,247962,75,Linda Davis
+7686,2023-06-27,478,Property_376,Commercial,105,2218 Oak St,Los Angeles,CA,88159,4283,1925,733809,89,Patricia Williams
+8062,2023-06-27,242,Property_474,Residential,130,7439 Cedar St,Phoenix,AZ,94182,8092,1937,577038,84,Elizabeth Smith
+2961,2023-06-27,428,Property_426,Residential,171,4432 Elm St,Philadelphia,PA,20573,5923,2010,293061,66,Michael Miller
+4391,2023-06-27,273,Property_461,Land,66,9403 River Rd,San Jose,CA,31834,4558,1951,383397,22,Linda Davis
+1003,2023-06-27,486,Property_224,Residential,37,664 2nd St,Phoenix,AZ,44857,8342,2021,970937,20,John Garcia
+9705,2023-06-27,22,Property_210,Commercial,104,1961 Maple St,Dallas,TX,90626,7085,1923,960477,100,Patricia Miller
+2462,2023-06-27,355,Property_179,Land,111,7662 Oak St,Phoenix,AZ,37737,4952,1942,749617,70,William Garcia
+7662,2023-06-27,212,Property_41,Land,181,7119 Sunset Blvd,Los Angeles,CA,51355,4547,1965,498965,22,Mary Smith
+2437,2023-06-27,231,Property_393,Residential,95,1946 Oak St,San Antonio,TX,21298,6850,1980,573078,63,Robert Williams
+696,2023-06-27,384,Property_447,Commercial,200,2028 2nd St,New York,NY,63489,745,1990,855721,40,Elizabeth Jones
+9723,2023-06-28,244,Property_157,Land,195,3603 Cedar St,New York,NY,78659,5238,1927,223153,13,William Davis
+6765,2023-06-28,254,Property_95,Commercial,165,1138 Maple St,New York,NY,10166,7585,1974,739965,89,William Johnson
+138,2023-06-28,135,Property_38,Residential,121,8141 Main St,New York,NY,92694,1563,1912,525422,59,John Johnson
+7867,2023-06-28,145,Property_218,Land,73,2611 Sunset Blvd,Phoenix,AZ,58667,6922,1999,913106,72,John Williams
+8226,2023-06-28,211,Property_236,Commercial,17,6370 Sunset Blvd,Phoenix,AZ,25791,5266,1902,419832,100,Jennifer Williams
+4955,2023-06-28,91,Property_407,Residential,78,9871 Main St,Chicago,IL,63896,7711,1933,704721,17,James Davis
+4442,2023-06-28,101,Property_90,Residential,195,4846 8th Ave,San Antonio,TX,57257,3341,1919,256331,83,John Miller
+4259,2023-06-28,489,Property_375,Residential,82,3709 Pine St,Los Angeles,CA,93989,7768,1961,643997,79,Robert Jones
+509,2023-06-28,490,Property_39,Commercial,39,4679 Maple St,Philadelphia,PA,52926,1738,1904,991244,64,Patricia Davis
+6726,2023-06-28,339,Property_100,Land,10,2975 Cedar St,Los Angeles,CA,47442,1871,1981,456794,71,John Smith
+3201,2023-06-28,26,Property_33,Commercial,7,6305 Cedar St,Los Angeles,CA,85834,2943,1965,268810,93,William Johnson
+6136,2023-06-28,450,Property_249,Residential,192,502 Main St,San Antonio,TX,74095,4242,1995,982163,51,Linda Jones
+7634,2023-06-28,106,Property_442,Commercial,8,4789 Main St,Philadelphia,PA,99250,869,1924,930799,75,James Smith
+2019,2023-06-28,343,Property_424,Commercial,9,8616 Cedar St,Houston,TX,26696,738,2014,893773,69,Mary Williams
+7681,2023-06-28,276,Property_172,Residential,6,3451 Oak St,New York,NY,29994,4475,1904,817452,11,Elizabeth Jones
+6209,2023-06-28,231,Property_134,Commercial,141,8908 Elm St,San Jose,CA,32258,8752,1961,688169,63,Patricia Brown
+4133,2023-06-28,446,Property_304,Commercial,107,8840 Main St,San Antonio,TX,78908,7647,1927,959691,86,Jennifer Garcia
+3712,2023-06-28,390,Property_237,Residential,4,8911 River Rd,Los Angeles,CA,42848,1893,1905,875173,31,Robert Williams
+6165,2023-06-28,39,Property_449,Residential,43,797 Main St,Dallas,TX,65892,1773,1936,862601,24,William Miller
+1809,2023-06-28,190,Property_228,Residential,125,9546 Oak St,Los Angeles,CA,75622,9997,2015,159785,80,Michael Miller
+3520,2023-06-28,365,Property_372,Residential,30,3347 Main St,Phoenix,AZ,64187,5024,2007,270352,59,Linda Johnson
+1060,2023-06-28,68,Property_490,Residential,112,2607 2nd St,Houston,TX,54178,4649,1913,712955,69,John Davis
+1188,2023-06-28,98,Property_142,Land,106,6846 Cedar St,Houston,TX,61836,8148,1933,258502,30,John Jones
+6534,2023-06-28,387,Property_393,Residential,169,8544 Maple St,Houston,TX,56753,4489,1966,905474,34,Michael Miller
+1076,2023-06-28,283,Property_275,Land,154,7937 Elm St,San Diego,CA,96270,5136,1925,388912,97,James Jones
+6449,2023-06-28,316,Property_330,Commercial,43,1170 Elm St,San Jose,CA,49775,3573,1931,954346,77,James Smith
+9121,2023-06-28,300,Property_58,Land,190,3658 Sunset Blvd,Chicago,IL,33713,8231,1992,861466,85,Robert Miller
+7476,2023-06-28,261,Property_214,Commercial,154,2672 Oak St,Phoenix,AZ,13989,4374,1958,777827,68,John Brown
+6494,2023-06-28,409,Property_266,Land,103,8522 Elm St,Philadelphia,PA,64553,3165,2021,377413,68,William Miller
+3045,2023-06-29,102,Property_463,Commercial,1,2690 Oak St,New York,NY,19793,5530,2009,506204,83,Patricia Brown
+406,2023-06-29,356,Property_2,Residential,13,2241 Elm St,Phoenix,AZ,95534,2409,1989,800251,85,William Johnson
+7060,2023-06-29,338,Property_126,Land,42,1557 Maple St,Los Angeles,CA,23245,5149,1929,500326,39,Mary Garcia
+8490,2023-06-29,285,Property_341,Residential,17,3578 Sunset Blvd,San Jose,CA,66418,8185,1992,275572,78,Jennifer Garcia
+7201,2023-06-29,281,Property_132,Commercial,136,1788 Sunset Blvd,Houston,TX,67407,6295,1933,211986,29,William Davis
+7192,2023-06-29,230,Property_54,Residential,165,8756 River Rd,San Antonio,TX,36026,4770,1954,581394,87,James Jones
+936,2023-06-29,248,Property_293,Residential,79,4445 8th Ave,San Antonio,TX,34623,9242,1995,818795,75,John Brown
+6856,2023-06-29,203,Property_457,Commercial,174,2277 Oak St,Dallas,TX,90826,5470,1993,834707,64,Robert Smith
+880,2023-06-29,109,Property_376,Residential,94,9989 River Rd,Los Angeles,CA,70116,1882,2003,722630,80,John Smith
+1192,2023-06-29,317,Property_226,Commercial,181,3046 8th Ave,Phoenix,AZ,31841,6757,1947,770779,88,Patricia Williams
+7741,2023-06-29,105,Property_29,Residential,49,6335 River Rd,Phoenix,AZ,80772,1029,1940,798072,20,Patricia Jones
+5180,2023-06-29,397,Property_121,Land,11,2539 Maple St,Dallas,TX,29228,933,1912,680142,3,John Brown
+5621,2023-06-29,84,Property_239,Commercial,6,7210 Main St,San Antonio,TX,89754,892,2022,701645,34,James Garcia
+5339,2023-06-29,393,Property_260,Land,64,4732 River Rd,San Jose,CA,99806,5720,2013,156320,58,Jennifer Johnson
+490,2023-06-29,297,Property_290,Residential,139,7740 Oak St,Chicago,IL,42744,9889,1949,957076,83,Robert Davis
+6106,2023-06-29,469,Property_98,Residential,169,3724 Elm St,Philadelphia,PA,78094,5367,1900,126071,31,Linda Smith
+2358,2023-06-29,397,Property_254,Commercial,68,6868 8th Ave,San Diego,CA,32698,6738,1910,884019,56,Patricia Garcia
+195,2023-06-29,288,Property_371,Residential,124,1416 Main St,Chicago,IL,45362,6560,1930,315911,99,Elizabeth Jones
+8980,2023-06-29,466,Property_306,Commercial,30,2074 8th Ave,Chicago,IL,63864,6815,2007,600716,15,Jennifer Jones
+5653,2023-06-29,16,Property_273,Residential,72,2256 Main St,San Jose,CA,39563,4557,1917,634692,77,John Garcia
+6261,2023-06-29,227,Property_428,Land,82,4223 River Rd,Dallas,TX,93798,4401,1955,431735,43,Patricia Garcia
+5176,2023-06-29,404,Property_23,Residential,132,3167 Elm St,Phoenix,AZ,45348,2110,2019,912047,55,Linda Garcia
+8109,2023-06-29,487,Property_396,Commercial,84,6860 Elm St,Phoenix,AZ,37959,8675,1990,760692,55,John Garcia
+9187,2023-06-29,275,Property_478,Land,62,9066 River Rd,Philadelphia,PA,90099,9019,1908,794638,77,Jennifer Johnson
+1645,2023-06-30,463,Property_492,Land,193,2294 Pine St,Houston,TX,31861,4592,1996,685897,56,William Johnson
+588,2023-06-30,341,Property_178,Residential,29,1198 Main St,San Antonio,TX,29032,8017,1906,597131,72,James Brown
+5040,2023-06-30,167,Property_94,Commercial,131,8519 Main St,Phoenix,AZ,70268,8425,1941,882212,64,John Johnson
+8575,2023-06-30,85,Property_246,Residential,46,6998 8th Ave,Dallas,TX,67651,3366,1987,374841,16,Linda Jones
+8110,2023-06-30,246,Property_237,Land,139,5421 Main St,San Antonio,TX,18594,3929,1934,304449,88,Michael Davis
+3825,2023-06-30,413,Property_452,Residential,160,8373 Main St,San Jose,CA,85052,9991,2006,370589,82,Linda Jones
+7082,2023-06-30,207,Property_54,Commercial,36,8055 Main St,San Jose,CA,37590,4011,1981,610635,5,Elizabeth Brown
+8104,2023-06-30,403,Property_314,Land,41,5344 River Rd,Los Angeles,CA,19374,8344,2006,622853,38,Robert Miller
+5346,2023-06-30,267,Property_220,Commercial,190,8194 Pine St,Philadelphia,PA,83355,9609,2004,202843,4,Elizabeth Johnson
+3890,2023-06-30,42,Property_38,Commercial,174,4535 Pine St,New York,NY,20321,2389,1965,268929,7,Michael Jones
+8704,2023-06-30,308,Property_122,Residential,53,3398 8th Ave,Los Angeles,CA,91115,3280,1989,713151,34,Robert Miller
+2595,2023-06-30,134,Property_6,Commercial,161,4316 2nd St,Chicago,IL,54501,5961,1976,246099,24,Linda Brown
+1772,2023-06-30,240,Property_492,Land,137,6482 Elm St,Houston,TX,27770,2520,1961,601431,7,Jennifer Garcia
+6782,2023-06-30,407,Property_347,Commercial,7,2054 Sunset Blvd,New York,NY,38250,8141,1923,731785,62,William Smith
+8279,2023-06-30,239,Property_398,Residential,129,7989 Pine St,Philadelphia,PA,76269,4349,1984,782929,3,William Williams
+4044,2023-06-30,99,Property_211,Residential,7,4242 Elm St,San Jose,CA,71292,8680,1992,889818,94,Jennifer Williams
+7758,2023-06-30,127,Property_36,Commercial,53,2190 Maple St,Phoenix,AZ,34288,3626,1993,845845,15,Elizabeth Miller
+7841,2023-06-30,364,Property_43,Commercial,51,4451 Elm St,Phoenix,AZ,93191,4769,1959,863521,44,Linda Johnson
+6006,2023-06-30,342,Property_90,Land,77,8378 Maple St,Houston,TX,15723,3184,1955,842410,59,John Brown
+4654,2023-06-30,441,Property_273,Commercial,110,7998 Pine St,San Diego,CA,29585,1962,1953,998273,98,Michael Williams
+6070,2023-06-30,84,Property_354,Commercial,70,3846 Main St,Chicago,IL,39070,3142,1906,648507,44,Michael Jones
+1373,2023-06-30,245,Property_251,Residential,74,2248 Sunset Blvd,Dallas,TX,41327,5054,2002,648204,79,Robert Garcia
+4108,2023-06-30,174,Property_58,Land,132,9541 Pine St,Chicago,IL,56260,5098,1967,617422,57,Jennifer Jones
+5293,2023-06-30,255,Property_231,Residential,31,4717 River Rd,San Jose,CA,80482,2337,1962,823474,55,Michael Davis
+4116,2023-06-30,285,Property_332,Residential,75,4687 2nd St,Philadelphia,PA,84438,6183,1957,614958,63,Elizabeth Davis
+2489,2023-06-30,343,Property_315,Residential,70,9949 Main St,New York,NY,87361,8124,2016,681091,23,Linda Jones
+6960,2023-06-30,390,Property_371,Land,128,5921 8th Ave,Houston,TX,36398,4351,1924,454813,21,John Davis
+9074,2023-06-30,246,Property_163,Land,191,7258 Pine St,Chicago,IL,55343,6155,1966,835418,84,Michael Brown
+2023,2023-06-30,417,Property_5,Commercial,103,8373 Elm St,Los Angeles,CA,70962,4168,1974,396634,9,Linda Williams
+342,2023-06-30,231,Property_328,Land,192,5295 Oak St,Los Angeles,CA,31386,8856,2012,629983,95,Elizabeth Davis
+7286,2023-06-30,430,Property_54,Residential,13,2096 Maple St,New York,NY,60812,9439,1992,603638,39,William Davis
+5689,2023-06-30,269,Property_1,Commercial,199,3167 2nd St,Chicago,IL,84367,4271,1958,321402,19,William Miller
+7347,2023-06-30,329,Property_314,Commercial,68,1952 Sunset Blvd,Houston,TX,96233,1276,1943,470971,45,Mary Miller
+9179,2023-06-30,487,Property_458,Commercial,177,7648 Oak St,Houston,TX,96742,1639,1906,554393,2,Elizabeth Miller
+5716,2023-06-30,407,Property_439,Land,191,5446 8th Ave,Houston,TX,15934,3516,1969,664401,59,Linda Williams
+4950,2023-06-30,159,Property_344,Residential,34,1165 River Rd,Phoenix,AZ,42765,8987,1970,319651,84,Mary Johnson
