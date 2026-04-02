@@ -166,4 +166,4 @@ Star Schema Design
 ---
 
 ## 📸 Screenshots
-![Executive Overview](real-estate-dashboard.png)
+![Executive Overview](Real Estate Dashboard 1..png)
