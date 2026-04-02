@@ -166,4 +166,4 @@ Star Schema Design
 ---
 
 ## 📸 Screenshots
-![Executive Overview](Real Estate Dashboard 1..png)
+![Executive Overview](https://raw.githubusercontent.com/jessica-ernest/Advanced-Reporting-and-Analytics-for-Guyus-Real-Estate/main/Real%20Estate%20Dashboard%201..png)
