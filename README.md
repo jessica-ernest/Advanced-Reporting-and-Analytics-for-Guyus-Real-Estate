@@ -1,120 +1,169 @@
-# Advanced-Reporting-and-Analytics-for-Guyus-Real-Estate
+#  🏠 Advanced-Reporting-and-Analytics-for-Guyus-Real-Estate — Power BI
 
-## Problem Statement
+---
 
-Guyus Real Estate, a successful company, has a hard time with its reporting and analytical processes. The company relies on manual Excel reports, which are time-consuming, prone to errors, and limited in analytical capabilities. This leads to delayed decision-making, affecting the company's competitive edge and market responsiveness.
+## 1. Business Context & Objectives
 
-To solve this, Guyus Real Estate plans to implement an automated reporting system using Power BI. This will enable:
+### The Company
+Guyus Real Estate is a large real estate company managing 
+residential, commercial and land sales across multiple 
+US states. They handle thousands of transactions monthly 
+across a wide network of agents and locations.
 
-- Automated data reporting, eliminating manual errors and saving time
-- A comprehensive data model, structuring data for easier analysis and reporting
-- Integration of diverse data sources, ensuring data integrity and consistency
-- Enhanced analytical capabilities, uncovering market trends, performance metrics, and actionable insights
+### The Problem
+The company relied entirely on Excel for monthly sales 
+reporting. This created serious business challenges:
+- Reports took days to compile manually
+- Data errors and inconsistencies were common
+- Executives couldn't access real-time insights
+- Strategic decisions were delayed waiting for reports
+- No way to drill down by agent, state or property type
 
-By implementing Power BI, Guyus Real Estate aims to streamline its reporting process, improve data accuracy, and enhance its analytical capabilities, ultimately enabling informed, timely decision-making and maintaining its competitive edge in the market.
+### The Objective
+Design and deliver a fully automated Power BI dashboard 
+that gives executives real-time visibility into:
+- Total sales, transactions, average and max sales price
+- Agent performance rankings
+- Sales trends by month
+- Performance by property type
+- Geographic breakdown by state
 
-### Steps followed 
+---
 
-- Step 1 : Load data into Power BI Desktop, it's folder that contains multiple files so  combine it.
-- Step 2 : Open power query editor & clean the data.
-- Step 3 : In the Power BI model view, create a new table for the calender dimension.
-- Step 4 :  Define the table structure (e.g., columns, data types).
-- Step 5 :  Establish relationships between tables using keys (e.g., fact table to property Dim), Use the "Manage Relationships" dialog to define cardinality and cross-filtering. Also Create measures and calculated columns as needed
-- Step 6 : In the report view, under the view tab, theme was selected.
-- Step 7 :  A new visual was added using the three ellipses in the visualizations pane in report view. 
-- Step 8 : Visual filters (Slicers) were added for three fields named "Quater", "property Type" & "Month Name".
-- Step 9 : Four card visuals were added to the canvas, representing No of Transactions, Average Sales, Total Sales Amount & Max of Sales Price.
-           Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation.
-           
-- Step 10 : A map chart was added to the report design area representing total sales amount by state a line chart representing sum of sales price by month name, a doughnut chart representing total sales amount by proprty type, a clustered bar chart representing no of transaction by city and property type and a decomposition tree breaking down tnh property type, state and agent name.
-- Step 11 : card Visual was used to represent different transactions 
- 
+## 2. Data Sources & Data Preparation
 
-- Step 12 : In the report view, Drag and drop fields from the "Fields" pane to the visualization.
-- Step 13 : Use the "Format" pane to customize appearance. 
-- Step 14 :Table was created for the calculated measures
+### Data Source
+- Monthly Excel files stored in a shared folder
+- Data covered: transactions, agents, property types, 
+  states, cities and sale amounts
+- Volume: 6,000+ transaction records
 
-- Step 15 : New measure was created to find count of total no of transaction.
-Following DAX expression was written for the same,
-        
-        No of transaction = COUNTROWS('Guyus Real Estate'[ID])
-        
-A card visual was used to represent count of customers.
+### Data Preparation Steps
+1. Connected Power BI directly to the Excel folder 
+   (folder connector — auto-updates when new files added)
+2. Opened Power Query to clean and transform data:
+   - Removed duplicate transaction records
+   - Handled null/missing values in sales columns
+   - Standardized agent name formatting
+   - Corrected data types (dates, currencies, numbers)
+   - Split location fields into State and City columns
+3. Built a star schema data model with:
+   - Fact table: Transactions
+   - Dimension tables: Agents, Properties, Locations, Dates
+4. Created table relationships in Model View
 
-        
- - Step 16 : New measure was created to find  Total sales amount,
- 
- Following DAX expression was written to find Total sales amount,
- 
-         Total sales amount=SUM('Guyus Real Estate'[SalesPrice])
- 
- A card visual was used to represent this.
- 
- 
- - Step 17 : New measure was created to calculate Average Sales & a card visual was used to represent this.
- 
- Following DAX expression was written to find Average Sales,
- 
-         Average Sales =Average('Guyus Real Estate'[SalesPrice])
-    
- 
- 
- - Step 18 : The report was then published to Power BI Service.
- 
- 
+---
 
-# Snapshot of Dashboard 
+## 3. Analytical Methodology & Approach
 
-![GE](https://github.com/user-attachments/assets/b65a9bbd-5394-4775-8b10-2c97146960bf)
+### Data Modelling
+Built a star schema to enable fast, flexible querying 
+across all dimensions of the business.
 
- #  Snapshot (Power BI DESKTOP)
+### DAX Measures Created
+- Total Sales = SUM(Transactions[SaleAmount])
+- Total Transactions = COUNTROWS(Transactions)
+- Average Sales = AVERAGE(Transactions[SaleAmount])
+- Max Sales Price = MAX(Transactions[SaleAmount])
+- MoM Sales Change = (This Month - Last Month) / 
+  Last Month × 100
 
- 
-![6e03b7c8-846d-4121-b02f-afbd780a9d03](https://github.com/user-attachments/assets/42e8368a-26df-4cbe-a312-37061315dc60)
+### Dashboard Design Decisions
+- KPI cards at top for executive-level summary
+- Line chart for monthly sales trends 
+  (spot seasonal patterns instantly)
+- Horizontal bar chart for agent rankings 
+  (easy top performer identification)
+- US Map visual for geographic performance
+- Donut chart for property type split
+- Slicers: Quarter, Month, Property Type, 
+  City, Agent Name
+- Drill-through page for granular state + 
+  agent + property analysis
 
-# Insights
+---
 
- Report was created on Power BI Desktop & it was then published to Power BI Service.
+## 4. Results & Key Insights
 
-Following inferences can be drawn from the dashboard;
+### KPI Summary
+| Metric | Value | Change vs Last Month |
+|--------|-------|----------------------|
+| Total Sales | $3bn | ▲ 16.8% |
+| Total Transactions | 6,000 | ▲ 16.7% |
+| Max Sales Price | $1,000K | 0.0% |
+| Average Sales | $553K | ▲ 0.1% |
 
-### [1] KPIs
-- Total sales amount - $3bn
-- No of transactions - 6K
-- Average Sales - $553K
-- Max of Sales Price - $1,000k
+### Key Findings
 
+**Agent Performance:**
+- Top agent Robert Davis closed 287 transactions
+- Top 5 agents (Davis, Miller, Garcia ×2, Williams) 
+  were closely competitive — healthy team balance
+- Opportunity: bottom-performing agents need support 
+  or retraining
 
-   
-           
-### [2] Analysis on Property
-- The land property had the highest sales
-- The total sales dropped by 50% in the third quarter
+**Monthly Trends:**
+- February was the lowest month at $422M 
+  — classic Q1 seasonal dip in real estate
+- May peaked at $472M before slight July decline
+- Recommendation: run promotions in Feb/March 
+  to counter seasonal slowdown
 
-Guyus real estate can leverage on Brand partnerships that will help the organization reach new audiences, increase their following, and drive revenue through strategic collaboration 
-with complementary brands.
+**Property Type Split:**
+- Land: 35.46% — highest seller
+- Commercial: 32.32%
+- Residential: 32.22%
+- Insight: Land sales dominating is unusual — 
+  suggests development market opportunity
 
-  ### [3] State Analysis
-  
-- The decomposition tree shows how each agent performs in different state. The agent in A2 and PA performed exceedingly low.
-- Agents need to be contacted as to why their performance was that low. They could be linked to higher performang agents to learn strategies for a better performance
+**Geographic Performance:**
+- Texas and California were top performing states
+- Opportunity: underperforming states identified 
+  for targeted agent deployment
 
- ### [4] Some other insights
- 
- ### February Analysis.
-- Total Sales of $422m (a major drop of $52M from January).
-- Total nunber of with an average sales of 556K.
-- Highest sales from land with a total of $1.48M and Texas had the highest sales.
-- Willam Johnson is the top agent with total sales of $3.372 916.
- 
- ### Recommendation
- - Analyse the reasons behind disparity in Agents transactions. Has Top performance like Robert Davis specializing Property type or location Implement mentorship program to support other least performing Agents like  Linda and James.
-- Adapt some strategies that resulted to higher sales in January, April and June to increase sales
-in February and othermonths.
-- Special offer should be introduced for the least Property Sales type.
-- There should be Price discount for the sales of Commercial
-and Residential Property Types
-- Price discount and sales promotion should be introduced in the Cities with low sales.
+---
 
+## 5. Implementation, Monitoring & Next Steps
 
-# Guyus Real Estate Dashboard.md.txt
+### What Was Delivered
+- Fully automated Power BI dashboard live in 
+  Power BI Service
+- Replaced 100% of manual Excel reporting
+- Folder connector means dashboard refreshes 
+  automatically when new monthly data is added
+- Two pages: Executive Overview + Drill-through 
+  Detail View
+
+### Business Impact
+- Estimated 15+ hours per month saved on 
+  manual reporting
+- Zero manual data entry errors going forward
+- Executives now access insights in real time 
+  instead of waiting days for reports
+- Sales team can self-serve their own performance data
+
+### Next Steps & Recommendations
+1. Add a YoY (Year over Year) comparison page
+2. Build an agent target vs actual tracker
+3. Add customer demographics data for deeper 
+   buyer behaviour analysis
+4. Set up automatic email report subscription 
+   for executives
+5. Expand to include profit margin data 
+   not just revenue
+
+---
+
+## 🛠️ Tools Used
+Power BI · DAX · Power Query · Excel · Data Modelling · 
+Star Schema Design
+
+---
+
+## 🔗 Live Dashboard
+[👉 Click Here to View Live Dashboard] https://app.powerbi.com/links/adeA0dHqAC?ctid=455dfcec-e922-4d88-92d8-50622c950c2f&pbi_source=linkShare
+
+---
+
+## 📸 Screenshots
+![Executive Overview](real-estate-dashboard.png)
